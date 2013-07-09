@@ -1,0 +1,1073 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE doc SYSTEM "http://www.charlesworth-group.com/hch-jnl/hch.dtd"><!--ArborText, Inc., 1988-2000, v.4002-->
+<doc xmlns="urn:hch-jnl-BB4C2D71-E80A-4fe7-B7D8-FDAF121D7AD6" xmlns:tbl="urn:hch:table-470CC8FB-4DFD-4003-9403-2FE04FAB5760" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:hch-jnl-BB4C2D71-E80A-4fe7-B7D8-FDAF121D7AD6 http://www.charlesworth-group.com/hch-jnl/hch-journal.xsd">
+    <jnl-info>
+        <pub-name/>
+        <pub-loc>
+            <address><url url="www.bjournal.com.br">www.bjournal.com.br</url></address>
+        </pub-loc>
+        <jnl-tl>Brazilian Journal of Medical and Biological Research</jnl-tl>
+        <abrv-jnl-tl>BJB</abrv-jnl-tl>
+        <vol>46</vol>
+        <issue-no>1</issue-no>
+        <date><year>2012</year></date>
+        <issn type="print">1414-431X</issn>
+        <medline-jnl-tl>Braz J Med Biol Res</medline-jnl-tl>
+    </jnl-info>
+    <article type="print">
+        <unit-info>
+            <fpage>98</fpage>
+            <lpage>102</lpage>
+            <pag-cnt>000</pag-cnt>
+            <fig-cnt>000</fig-cnt>
+            <equ-cnt>000</equ-cnt>
+            <ref-cnt>040</ref-cnt>
+            <wrd-cnt>000</wrd-cnt>
+            <tbl-cnt>002</tbl-cnt>
+            <doi>10.1590&sol;1414&hyphen;431X20122477</doi>
+            <categ>Article</categ>
+            <cpyrt>
+                <date><year>2013</year></date>
+                <cpyrt-name>
+                    <org-name/>
+                </cpyrt-name>
+            </cpyrt>
+            <unit-id>bjb2477</unit-id>
+            <rf-recto/>
+            <rf-verso/>
+            <rh-recto>Serum 25&hyphen;hydroxyvitamin D in juvenile idiopathic arthritis</rh-recto>
+            <rh-verso>R.V. Munekata et al.</rh-verso>
+            <c-tracker-id>bjb2477</c-tracker-id>
+        </unit-info>
+        <front>
+            <title-grp>
+                <title>Serum 25&hyphen;hydroxyvitamin D and biochemical markers of bone metabolism
+                    in patients with juvenile idiopathic arthritis</title>
+            </title-grp>
+            <author-grp>
+                <author affs="aff1"><initial>R</initial><initial>V</initial><surname>Munekata</surname></author>
+                <author affs="aff1"><initial>M</initial><initial>T</initial><initial>R</initial><initial>A</initial><surname>Terreri</surname></author>
+                <author affs="aff1"><initial>O</initial><initial>A</initial><initial>B</initial><surname>Peracchi</surname></author>
+                <author affs="aff1"><initial>C</initial><surname>Len</surname></author>
+                <author affs="aff1"><initial>M</initial><surname>Lazaretti&hyphen;Castro</surname></author>
+                <author affs="aff1"><initial>R</initial><initial>O</initial><initial>S</initial><surname>Sarni</surname></author>
+                <author affs="aff1"><initial>M</initial><initial>O</initial><initial>E</initial><surname>Hil&aacute;rio</surname></author>
+                <aff id="aff1" num="">
+                    <org-div>Unidade de Reumatologia Pedi&aacute;trica</org-div>
+                    <org-div>Divis&atilde;o de Alergia</org-div>
+                    <org-div>Imunologia Cl&iacute;nica e Reumatologia</org-div>
+                    <org-div>Departamento de Pediatria</org-div>
+                    <org-name>Universidade Federal de S&atilde;o Paulo</org-name>
+                    <address><city>S&atilde;o Paulo</city><state>SP</state><country>Brasil</country></address>
+                </aff>
+            </author-grp>
+            <author-grp>
+                <corresponding-author affs="aff2"><initial>M</initial><initial>T</initial><initial>R</initial><initial>A</initial><surname>Terreri</surname></corresponding-author>
+                <aff id="aff2" num="">
+                    <org-name>Rua Ip&ecirc;</org-name>
+                    <address><street>112, Apto. 111</street><city>04022&hyphen;005 S&atilde;o Paulo</city><state>SP</state><country>Brasil</country><fax>&plus;55&hyphen;11&hyphen;5579&hyphen;1590</fax><email>teterreri&commat;terra.com.br</email></address>
+                </aff>
+            </author-grp>
+            <history>
+                <received><date-text>Received</date-text><date><month>July</month><day>9</day><year>2012</year></date></received>
+                <accepted><date-text>Accepted</date-text><date><month>October</month><day>3</day><year>2012</year></date></accepted>
+                <misc-date>
+                    <date-text>First published online</date-text>
+                    <date><month>January</month><day>11</day><year>2013</year></date>
+                </misc-date>
+            </history>
+            <abstract>
+                <title>Abstract</title>
+                <p id="para1">Our objective was to evaluate the concentrations of serum
+                    25&hyphen;hydroxyvitamin D &lsqb;25&lpar;OH&rpar;D&rsqb;, serum calcium, serum
+                    phosphorus, alkaline phosphatase, and parathormone &lpar;PTH&rpar; in patients
+                    with polyarticular juvenile idiopathic arthritis &lpar;JIA&rpar; and to
+                    associate them with disease duration and activity, bone mineral density and use
+                    of medications. In a cross&hyphen;sectional and controlled study, 30 patients
+                    with polyarticular JIA were evaluated and compared to 30 healthy individuals
+                    matched for age and gender. Clinical status, anthropometry, laboratory markers
+                    in both patients and controls, and bone mineral density, only in the patients,
+                    were measured. Of the 30 patients included in the study, 23
+                    &lpar;76.7&percnt;&rpar; were female and 16 &lpar;53.3&percnt;&rpar;
+                    non&hyphen;Caucasian&semi; mean age was 14 years &lpar;range
+                    &hairsp;&equals;&hairsp; 4 to 20 years&rpar;. Mean disease duration was 5 years
+                    &lpar;range &hairsp;&equals;&hairsp; 1 to 12 years&rpar;. The mean
+                    concentrations of serum albumin&hyphen;corrected calcium &lpar;9.04 &plusmn;
+                    0.41&emsp14;mg&sol;dL&rpar; and alkaline phosphatase &lpar;153.3 &plusmn; 100.1
+                    IU&rpar; were significantly lower in patients with JIA than in controls &lpar;P
+                    &lt; 0.0001 and P &hairsp;&equals;&hairsp; 0.001, respectively&rpar;. No
+                    differences in 25&lpar;OH&rpar;D, PTH or serum phosphorus were observed between
+                    JIA and control subjects. Regarding 25&lpar;OH&rpar;D concentration, 8 patients
+                    &lpar;26.7&percnt;&rpar; and 5 controls &lpar;16.7&percnt;&rpar; had
+                    25&lpar;OH&rpar;D concentrations compatible with deficiency &lpar;lower than
+                    20&emsp14;ng&sol;mL&rpar; and 14 patients &lpar;46.7&percnt;&rpar; and 18
+                    controls &lpar;60&percnt;&rpar; had concentrations compatible with insufficiency
+                    &lpar;20&hyphen;32&emsp14;ng&sol;mL&rpar;. These values were not associated with
+                    disease activity, use of medications or bone mineral density. We observed a high
+                    frequency of 25&lpar;OH&rpar;D insufficiency and deficiency in the study sample.
+                    The compromised bone metabolism emphasizes the importance of follow&hyphen;up of
+                    JIA patients.</p>
+            </abstract>
+            <keywd-grp>
+                <keyword>Juvenile idiopathic arthritis</keyword>
+                <keyword>Serum vitamin D deficiency</keyword>
+                <keyword>Calcium</keyword>
+                <keyword>Alkaline phosphatase</keyword>
+            </keywd-grp>
+        </front>
+        <body>
+            <section level="1" id="section1">
+                <title>Introduction</title>
+                <p id="para2">Juvenile idiopathic arthritis &lpar;JIA&rpar; is the most common
+                    chronic rheumatic disease of childhood in developed countries and an important
+                    cause of short&hyphen; and long&hyphen;term disability.</p>
+                <p id="para3">The effects of vitamin D have been studied in experimental models of
+                    autoimmunity. In humans, there are some difficulties in establishing a direct
+                    relationship between vitamin D deficiency and an increase in the frequency of
+                    rheumatic diseases, considering the limitations of available studies, such as
+                    different cut&hyphen;offs used and small subject samples <citref rids="ref1">1</citref>.</p>
+                <p id="para4">Although intake is not the best method for the assessment of the
+                    nutritional status of vitamin D, a higher intake of this vitamin was found to be
+                    inversely related to the development of rheumatoid arthritis in a cohort study
+                    of 29,368 women <citref rids="ref2">2</citref>. In patients with rheumatoid
+                    arthritis, available results suggest a high frequency of vitamin D insufficiency
+                    or deficiency <citref rids="ref3 ref4 ref5 ref6 ref7 ref8 ref9">3&hyphen;9</citref> and show that vitamin D supplementation in subjects
+                    with active disease may relieve the symptoms and reduce inflammation <citref rids="ref10">10</citref>.</p>
+                <p id="para5">Studies performed in healthy children and adolescents have shown lower
+                    serum concentrations of 25&hyphen;hydroxyvitamin D &lsqb;25&lpar;OH&rpar;D&rsqb;
+                    at frequencies ranging from 9 to 62&percnt; <citref rids="ref11 ref12 ref13">11&hyphen;13</citref>. However, only a few studies have assessed the serum
+                    concentrations of 25&lpar;OH&rpar;D in children and adolescents with JIA <citref rids="ref14 ref15 ref16 ref17">14&hyphen;17</citref>.</p>
+                <p id="para6">The aim of the present study was to determine the serum concentrations
+                    of 25&lpar;OH&rpar;D, serum calcium, serum phosphorus, alkaline phosphatase, and
+                    parathormone &lpar;PTH&rpar; in patients with polyarticular JIA and to associate
+                    them or not with disease activity and duration, bone mineral density and use of
+                    medications &lpar;glucocorticoids and hydroxychloroquine&rpar; and supplements
+                    containing vitamin D and calcium.</p>
+            </section>
+            <section level="1" id="section2">
+                <title>Patients and Methods</title>
+                <p id="para7">In a cross&hyphen;sectional and controlled study, 30 patients of a
+                    total of 50 patients with polyarticular JIA were evaluated according to the
+                    criteria of the International League of Associations for Rheumatology
+                    &lpar;ILAR&rpar; <citref rids="ref18">18</citref>. The patients were followed at
+                    the Pediatric Rheumatology Clinic from September to November 2008. Twenty
+                    patients were excluded due either to other chronic diseases interfering with the
+                    calcium metabolism, or because they could not perform bone density measurements
+                    due to their stature or they did not consent to participate in the study.</p>
+                <p id="para8">Thirty healthy individuals, matched for gender and age to the
+                    patients, not using supplements containing vitamin D or calcium were included as
+                    controls.</p>
+                <p id="para9">The demographic, clinical and treatment data obtained with a
+                    standardized questionnaire were collected from the patients&apos; charts. To
+                    assess if the disease was active, we used the remission criteria described in
+                    previous papers <citref rids="ref19 ref20">19,20</citref>.</p>
+                <p id="para10">The anthropometric assessment included weight and height measurements
+                    using as reference those proposed by the World Health Organization
+                    &lpar;WHO&rpar; <citref rids="ref21 ref22 ref23">21&hyphen;23</citref>. Pubertal
+                    development was determined as recommended by Marshall and Tanner <citref rids="ref24">24</citref>.</p>
+                <p id="para11">Blood samples were collected from patients and controls after a
+                    12&hyphen;h fast for the following laboratory tests&colon; serum phosphorus and
+                    serum albumin&hyphen;corrected calcium by a colorimetric method with reactant
+                    molibidate and arsenazo, respectively, and alkaline phosphatase measured by an
+                    enzyme activity method with reactant p&hyphen;nitrophenyl phosphate
+                    &lpar;Biochemical Analyzer Olympus AU640, USA&rpar;. Urinary calcium and
+                    creatinine were determined in the patients by a colorimetric method using a
+                    specified apparatus. All biochemical analyses of patients and controls were
+                    performed from September to November 2008, corresponding to the Brazilian spring
+                    months. Since there is seasonal variability in 25&lpar;OH&rpar;D, we opted, as
+                    done in other studies, to collect the samples in the spring.</p>
+                <p id="para12">Serum 25&lpar;OH&rpar;D was determined in 2009 by
+                    electrochemiluminescence immunoassay using the commercial kit Elecsys
+                    25&lpar;OH&rpar;D3 &lpar;USA&rpar; and serum intact PTH was determined by
+                    immunofluorimetry using the same kit. Reference 25&lpar;OH&rpar;D values below
+                    20&emsp14;ng&sol;mL indicate deficiency, values between 20 and
+                    32&emsp14;ng&sol;mL indicate insufficiency, and values above 32&emsp14;ng&sol;mL
+                    are considered to be ideal <citref rids="ref25">25</citref>. The normal range
+                    for PTH is 15 to 65&emsp14;pg&sol;mL.</p>
+                <p id="para13">The bone mineral density of the spine &lpar;L1&hyphen;L4&rpar; was
+                    measured by dual&hyphen;energy X&hyphen;ray absorptiometry &lpar;DXA&rpar; using
+                    a Lunar&trade; DPX&hyphen;MD plus densitometer &lpar;GE&hyphen;Lunar Radiation
+                    Corporation, USA&rpar; equipped with pediatric software &lpar;version 8.5&rpar;.
+                    Bone mineral density was adjusted for height by the method of Khan et al.
+                        <citref rids="ref26">26</citref>.</p>
+                <p id="para14">All statistical calculations were done using the statistical software
+                    SPSS 18.0. The chi&hyphen;square test or, when indicated, the Fisher test was
+                    applied to evaluate the association between dichotomous variables. The normality
+                    of continuous variables was established by the Kolmogorov&hyphen;Smirnov test
+                    and is reported as means &plusmn; SD. The Student <emph type="italic">t</emph>&hyphen;test was used to compare groups regarding the variables under
+                    study. Pearson&apos;s correlation coefficient was used for the quantitative
+                    variables with normal distribution. An &agr; &lt;5&percnt; was adopted &lpar;P
+                    &lt; 0.05&rpar;.</p>
+                <p id="para15">An informed consent form was signed by all patients and controls
+                    and&sol;or their legal guardians. The Ethics Committee of the Universidade
+                    Federal de S&atilde;o Paulo, Hospital S&atilde;o Paulo &lpar;CEP No.
+                    0178&sol;09&rpar; approved the study protocol.</p>
+            </section>
+            <section level="1" id="section3">
+                <title>Results</title>
+                <p id="para16"><tblref rids="tbl1">Table 1</tblref> shows the characteristics of the
+                    study group. In the JIA group, the mean age at diagnosis was 9 years &lpar;3 to
+                    16 years&rpar; and the mean disease duration was 5 years &lpar;1 to 12
+                    years&rpar;&semi; 12&sol;30 &lpar;40&percnt;&rpar; patients had active disease
+                    at the time of evaluation. Six &lpar;20&percnt;&rpar; patients had positive
+                    rheumatoid factor.</p>
+                <tbl id="tbl1" num="1">
+                    <tbl:table id="table1" frame="topbot" width="D">
+                        <tbl:title><emph type="bold">Table 1.</emph> Demographic characteristics,
+                            nutritional status, and pubertal stage of patients with juvenile
+                            idiopathic arthritis.</tbl:title>
+                        <tbl:tgroup cols="3">
+                            <tbl:colspec colnum="1" colname="col1" width="50%"/>
+                            <tbl:colspec colnum="2" colname="col2" width="25%"/>
+                            <tbl:colspec colnum="3" colname="col3" width="25%"/>
+                            <tbl:spanspec namest="col1" nameend="col3" spanname="tbl1_row4_col1"/>
+                            <tbl:spanspec namest="col1" nameend="col3" spanname="tbl1_row7_col1"/>
+                            <tbl:spanspec namest="col1" nameend="col3" spanname="tbl1_row13_col1"/>
+                            <tbl:spanspec namest="col1" nameend="col3" spanname="tbl1_row16_col1"/>
+                            <tbl:thead>
+                                <tbl:row rowsep="1" valign="top" tb="Single Width" tbw="10" tbc="#000000" bb="Single Width" bbw="10" bbc="#000000">
+                                    <tbl:entry colname="col1" namest="col1" rowsep="1" align="left" valign="top" tb="Single Width" tbw="10" tbc="#000000" bb="Single Width" bbw="10" bbc="#000000"><p id="para17">Variables</p></tbl:entry>
+                                    <tbl:entry colname="col2" namest="col2" rowsep="1" align="center" valign="top" tb="Single Width" tbw="10" tbc="#000000" bb="Single Width" bbw="10" bbc="#000000"><p id="para18">JIA</p></tbl:entry>
+                                    <tbl:entry colname="col3" namest="col3" rowsep="1" align="center" valign="top" tb="Single Width" tbw="10" tbc="#000000" bb="Single Width" bbw="10" bbc="#000000"><p id="para19">Controls</p></tbl:entry>
+                                </tbl:row>
+                            </tbl:thead>
+                            <tbl:tbody>
+                                <tbl:row valign="top" tb="Single Width" tbw="10" tbc="#000000">
+                                    <tbl:entry colname="col1" namest="col1" align="left" valign="top" tb="Single Width" tbw="10" tbc="#000000"><p id="para20">Females</p></tbl:entry>
+                                    <tbl:entry colname="col2" namest="col2" align="char" char="(" valign="top" tb="Single Width" tbw="10" tbc="#000000"><p id="para21">23 &lpar;76.7&rpar;</p></tbl:entry>
+                                    <tbl:entry colname="col3" namest="col3" align="char" char="(" valign="top" tb="Single Width" tbw="10" tbc="#000000"><p id="para22">23 &lpar;76.7&rpar;</p></tbl:entry>
+                                </tbl:row>
+                                <tbl:row valign="top">
+                                    <tbl:entry colname="col1" namest="col1" align="left" valign="top"><p id="para23">Age at evaluation
+                                            &lpar;range&rpar;</p></tbl:entry>
+                                    <tbl:entry colname="col2" namest="col2" align="char" char="(" valign="top"><p id="para24">14
+                                        &lpar;4&hyphen;20&rpar;</p></tbl:entry>
+                                    <tbl:entry colname="col3" namest="col3" align="char" char="(" valign="top"><p id="para25">14
+                                        &lpar;4&hyphen;19&rpar;</p></tbl:entry>
+                                </tbl:row>
+                                <tbl:row valign="top">
+                                    <tbl:entry colname="col1" namest="col1" nameend="col3" spanname="tbl1_row4_col1" align="left" valign="top"><p id="para26">Ethnic origin</p></tbl:entry>
+                                </tbl:row>
+                                <tbl:row valign="top">
+                                    <tbl:entry colname="col1" namest="col1" align="left" valign="top"><p id="para27">&emsp;Caucasian</p></tbl:entry>
+                                    <tbl:entry colname="col2" namest="col2" align="char" char="(" valign="top"><p id="para28">14
+                                        &lpar;46.7&rpar;</p></tbl:entry>
+                                    <tbl:entry colname="col3" namest="col3" align="char" char="(" valign="top"><p id="para29">19
+                                        &lpar;63.3&rpar;</p></tbl:entry>
+                                </tbl:row>
+                                <tbl:row valign="top">
+                                    <tbl:entry colname="col1" namest="col1" align="left" valign="top"><p id="para30">&emsp;Non&hyphen;Caucasian</p></tbl:entry>
+                                    <tbl:entry colname="col2" namest="col2" align="char" char="(" valign="top"><p id="para31">16
+                                        &lpar;53.3&rpar;</p></tbl:entry>
+                                    <tbl:entry colname="col3" namest="col3" align="char" char="(" valign="top"><p id="para32">11
+                                        &lpar;36.7&rpar;</p></tbl:entry>
+                                </tbl:row>
+                                <tbl:row valign="top">
+                                    <tbl:entry colname="col1" namest="col1" nameend="col3" spanname="tbl1_row7_col1" align="left" valign="top"><p id="para33">BMI Z score</p></tbl:entry>
+                                </tbl:row>
+                                <tbl:row valign="top">
+                                    <tbl:entry colname="col1" namest="col1" align="left" valign="top"><p id="para34">&emsp;Eutrophic</p></tbl:entry>
+                                    <tbl:entry colname="col2" namest="col2" align="char" char="(" valign="top"><p id="para35">20
+                                        &lpar;66.7&rpar;</p></tbl:entry>
+                                    <tbl:entry colname="col3" namest="col3" align="char" char="(" valign="top"><p id="para36">30
+                                        &lpar;100&rpar;</p></tbl:entry>
+                                </tbl:row>
+                                <tbl:row valign="top">
+                                    <tbl:entry colname="col1" namest="col1" align="left" valign="top"><p id="para37">&emsp;Non&hyphen;eutrophic</p></tbl:entry>
+                                    <tbl:entry colname="col2" namest="col2" align="char" char="(" valign="top"><p id="para38">10
+                                        &lpar;33.3&rpar;</p></tbl:entry>
+                                    <tbl:entry colname="col3" namest="col3" align="center" valign="top"><p id="para39">0</p></tbl:entry>
+                                </tbl:row>
+                                <tbl:row valign="top">
+                                    <tbl:entry colname="col1" namest="col1" align="left" valign="top"><p id="para40">&emsp;Malnutrition</p></tbl:entry>
+                                    <tbl:entry colname="col2" namest="col2" align="char" char="(" valign="top"><p id="para41">5
+                                        &lpar;16.6&rpar;</p></tbl:entry>
+                                    <tbl:entry colname="col3" namest="col3" align="center" valign="top"><p id="para42">0</p></tbl:entry>
+                                </tbl:row>
+                                <tbl:row valign="top">
+                                    <tbl:entry colname="col1" namest="col1" align="left" valign="top"><p id="para43">&emsp;Overweight</p></tbl:entry>
+                                    <tbl:entry colname="col2" namest="col2" align="char" char="(" valign="top"><p id="para44">3
+                                        &lpar;10.0&rpar;</p></tbl:entry>
+                                    <tbl:entry colname="col3" namest="col3" align="center" valign="top"><p id="para45">0</p></tbl:entry>
+                                </tbl:row>
+                                <tbl:row valign="top">
+                                    <tbl:entry colname="col1" namest="col1" align="left" valign="top"><p id="para46">&emsp;Obesity</p></tbl:entry>
+                                    <tbl:entry colname="col2" namest="col2" align="char" char="(" valign="top"><p id="para47">2
+                                        &lpar;6.7&rpar;&ast;</p></tbl:entry>
+                                    <tbl:entry colname="col3" namest="col3" align="center" valign="top"><p id="para48">0</p></tbl:entry>
+                                </tbl:row>
+                                <tbl:row valign="top">
+                                    <tbl:entry colname="col1" namest="col1" nameend="col3" spanname="tbl1_row13_col1" align="left" valign="top"><p id="para49">S&sol;A Z score</p></tbl:entry>
+                                </tbl:row>
+                                <tbl:row valign="top">
+                                    <tbl:entry colname="col1" namest="col1" align="left" valign="top"><p id="para50">&emsp;Low height</p></tbl:entry>
+                                    <tbl:entry colname="col2" namest="col2" align="char" char="(" valign="top"><p id="para51">5
+                                        &lpar;17.9&rpar;</p></tbl:entry>
+                                    <tbl:entry colname="col3" namest="col3" align="center" valign="top"><p id="para52">0</p></tbl:entry>
+                                </tbl:row>
+                                <tbl:row valign="top">
+                                    <tbl:entry colname="col1" namest="col1" align="left" valign="top"><p id="para53">&emsp;Adequate
+                                        height</p></tbl:entry>
+                                    <tbl:entry colname="col2" namest="col2" align="char" char="(" valign="top"><p id="para54">23
+                                        &lpar;82.1&rpar;</p></tbl:entry>
+                                    <tbl:entry colname="col3" namest="col3" align="char" char="(" valign="top"><p id="para55">28 &lpar;100&rpar;<emph type="sup">a</emph></p></tbl:entry>
+                                </tbl:row>
+                                <tbl:row valign="top">
+                                    <tbl:entry colname="col1" namest="col1" nameend="col3" spanname="tbl1_row16_col1" align="left" valign="top"><p id="para56">Pubertal stage</p></tbl:entry>
+                                </tbl:row>
+                                <tbl:row valign="top">
+                                    <tbl:entry colname="col1" namest="col1" align="left" valign="top"><p id="para57">&emsp;Prepubertal
+                                        stage</p></tbl:entry>
+                                    <tbl:entry colname="col2" namest="col2" align="char" char="(" valign="top"><p id="para58">6
+                                        &lpar;20.0&rpar;</p></tbl:entry>
+                                    <tbl:entry colname="col3" namest="col3" align="char" char="(" valign="top"><p id="para59">6
+                                        &lpar;20.0&rpar;</p></tbl:entry>
+                                </tbl:row>
+                                <tbl:row valign="top" bb="Single Width" bbw="10" bbc="#000000">
+                                    <tbl:entry colname="col1" namest="col1" align="left" valign="top" bb="Single Width" bbw="10" bbc="#000000"><p id="para60">&emsp;Pubertal stage</p></tbl:entry>
+                                    <tbl:entry colname="col2" namest="col2" align="char" char="(" valign="top" bb="Single Width" bbw="10" bbc="#000000"><p id="para61">24 &lpar;80.0&rpar;</p></tbl:entry>
+                                    <tbl:entry colname="col3" namest="col3" align="char" char="(" valign="top" bb="Single Width" bbw="10" bbc="#000000"><p id="para62">24 &lpar;80.0&rpar;</p></tbl:entry>
+                                </tbl:row>
+                            </tbl:tbody>
+                        </tbl:tgroup>
+                    </tbl:table>
+                    <tfootnote id="tfootnote1" num="">Data are reported as number with percent in
+                        parentheses for 30 patients in each group. JIA &hairsp;&equals;&hairsp;
+                        juvenile idiopathic arthritis&semi; BMI &hairsp;&equals;&hairsp; body mass
+                        index&semi; S&sol;A &hairsp;&equals;&hairsp; stature for age. &ast;P &lt;
+                        0.05 compared to controls &lpar;chi&hyphen;square test&rpar;. <emph type="sup">a</emph>Two patients were older than 19 years.</tfootnote>
+                </tbl>
+                <p id="para63">No differences in serum 25&lpar;OH&rpar;D, PTH or phosphorus
+                    concentrations were observed between the JIA and control groups &lpar;<tblref rids="tbl2">Table 2</tblref>&rpar;. The mean concentrations of serum
+                    albumin&hyphen;corrected calcium and alkaline phosphatase were significantly
+                    lower in the JIA patients than in the controls &lpar;<tblref rids="tbl2">Table
+                        2</tblref>&rpar;. All but 2 patients had calciuria&sol;creatinuria ratios
+                    within the normal range.</p>
+                <tbl id="tbl2" num="2">
+                    <tbl:table id="table2" frame="topbot" width="D">
+                        <tbl:title><emph type="bold">Table 2.</emph> Serum concentrations of
+                            25&lpar;OH&rpar;D, PTH, calcium, phosphorus, and alkaline phosphatase of
+                            patients with juvenile idiopathic arthritis.</tbl:title>
+                        <tbl:tgroup cols="3">
+                            <tbl:colspec colnum="1" colname="col1" width="53%"/>
+                            <tbl:colspec colnum="2" colname="col2" width="22%"/>
+                            <tbl:colspec colnum="3" colname="col3" width="25%"/>
+                            <tbl:thead>
+                                <tbl:row rowsep="1" valign="top" tb="Single Width" tbw="10" tbc="#000000" bb="Single Width" bbw="10" bbc="#000000">
+                                    <tbl:entry colname="col1" namest="col1" rowsep="1" align="left" valign="top" tb="Single Width" tbw="10" tbc="#000000" bb="Single Width" bbw="10" bbc="#000000"><p id="para64"/></tbl:entry>
+                                    <tbl:entry colname="col2" namest="col2" rowsep="1" align="center" valign="top" tb="Single Width" tbw="10" tbc="#000000" bb="Single Width" bbw="10" bbc="#000000"><p id="para65">JIA</p></tbl:entry>
+                                    <tbl:entry colname="col3" namest="col3" rowsep="1" align="center" valign="top" tb="Single Width" tbw="10" tbc="#000000" bb="Single Width" bbw="10" bbc="#000000"><p id="para66">Controls</p></tbl:entry>
+                                </tbl:row>
+                            </tbl:thead>
+                            <tbl:tbody>
+                                <tbl:row valign="top" tb="Single Width" tbw="10" tbc="#000000">
+                                    <tbl:entry colname="col1" namest="col1" align="left" valign="top" tb="Single Width" tbw="10" tbc="#000000"><p id="para67">25&lpar;OH&rpar;D
+                                        &lpar;ng&sol;mL&rpar;</p></tbl:entry>
+                                    <tbl:entry colname="col2" namest="col2" align="char" char=" " valign="top" tb="Single Width" tbw="10" tbc="#000000"><p id="para68">25.70 &plusmn; 8.65</p></tbl:entry>
+                                    <tbl:entry colname="col3" namest="col3" align="char" char=" " valign="top" tb="Single Width" tbw="10" tbc="#000000"><p id="para69">26.92 &plusmn; 7.62</p></tbl:entry>
+                                </tbl:row>
+                                <tbl:row valign="top">
+                                    <tbl:entry colname="col1" namest="col1" align="left" valign="top"><p id="para70">PTH
+                                        &lpar;pg&sol;mL&rpar;</p></tbl:entry>
+                                    <tbl:entry colname="col2" namest="col2" align="char" char=" " valign="top"><p id="para71">31.21 &plusmn;
+                                        12.35</p></tbl:entry>
+                                    <tbl:entry colname="col3" namest="col3" align="char" char=" " valign="top"><p id="para72">30.04 &plusmn;
+                                        15.63</p></tbl:entry>
+                                </tbl:row>
+                                <tbl:row valign="top">
+                                    <tbl:entry colname="col1" namest="col1" align="left" valign="top"><p id="para73">Albumin&hyphen;corrected calcium
+                                            &lpar;mg&sol;dL&rpar;</p></tbl:entry>
+                                    <tbl:entry colname="col2" namest="col2" align="char" char=" " valign="top"><p id="para74">9.04 &plusmn;
+                                        0.41&ast;</p></tbl:entry>
+                                    <tbl:entry colname="col3" namest="col3" align="char" char=" " valign="top"><p id="para75">9.48 &plusmn;
+                                        0.48</p></tbl:entry>
+                                </tbl:row>
+                                <tbl:row valign="top">
+                                    <tbl:entry colname="col1" namest="col1" align="left" valign="top"><p id="para76">Serum phosphorus
+                                            &lpar;mg&sol;dL&rpar;</p></tbl:entry>
+                                    <tbl:entry colname="col2" namest="col2" align="char" char=" " valign="top"><p id="para77">4.45 &plusmn;
+                                        0.61</p></tbl:entry>
+                                    <tbl:entry colname="col3" namest="col3" align="char" char=" " valign="top"><p id="para78">4.17 &plusmn;
+                                        0.86</p></tbl:entry>
+                                </tbl:row>
+                                <tbl:row valign="top" bb="Single Width" bbw="10" bbc="#000000">
+                                    <tbl:entry colname="col1" namest="col1" align="left" valign="top" bb="Single Width" bbw="10" bbc="#000000"><p id="para79">Alkaline phosphatase
+                                        &lpar;IU&rpar;</p></tbl:entry>
+                                    <tbl:entry colname="col2" namest="col2" align="char" char=" " valign="top" bb="Single Width" bbw="10" bbc="#000000"><p id="para80">153.3 &plusmn; 100.1&ast;</p></tbl:entry>
+                                    <tbl:entry colname="col3" namest="col3" align="char" char=" " valign="top" bb="Single Width" bbw="10" bbc="#000000"><p id="para81">285.2 &plusmn; 169.9</p></tbl:entry>
+                                </tbl:row>
+                            </tbl:tbody>
+                        </tbl:tgroup>
+                    </tbl:table>
+                    <tfootnote id="tfootnote2" num="">Data are reported as means &plusmn; SD for 30
+                        patients in each group. JIA &hairsp;&equals;&hairsp; juvenile idiopathic
+                        arthritis&semi; 25&lpar;OH&rpar;D &hairsp;&equals;&hairsp;
+                        25&hyphen;hydroxyvitamin D&semi; PTH &hairsp;&equals;&hairsp; parathormone.
+                        &ast;P &lt; 0.05 compared to control group &lpar;Student <emph type="italic">t</emph>&hyphen;test&rpar;.</tfootnote>
+                </tbl>
+                <p id="para82">Regarding serum 25&lpar;OH&rpar;D concentrations, 8 patients
+                    &lpar;26.7&percnt;&rpar; and 5 controls &lpar;16.7&percnt;&rpar; had values
+                    compatible with deficiency &lpar;&lt;20&emsp14;ng&sol;mL&rpar; and 14 patients
+                    &lpar;46.7&percnt;&rpar; and 18 controls &lpar;60&percnt;&rpar; had values
+                    compatible with insufficiency &lpar;20&hyphen;32&emsp14;ng&sol;mL&rpar;. Three
+                    patients with deficiency and 6 with insufficiency of 25&lpar;OH&rpar;D had
+                    active disease at the time of evaluation.</p>
+                <p id="para83">Only 1 patient &lpar;3.3&percnt;&rpar; and 1 control
+                    &lpar;3.3&percnt;&rpar; had elevated PTH levels
+                    &lpar;&gt;65&emsp14;pg&sol;mL&rpar;, with 25&lpar;OH&rpar;D concentrations of
+                    24.4 and 39.9&emsp14;ng&sol;mL, respectively.</p>
+                <p id="para84">25&lpar;OH&rpar;D concentrations were not different in relation to
+                    ethnicity &lpar;P &hairsp;&equals;&hairsp; 0.896&rpar;, Z body mass index
+                    &lpar;P &hairsp;&equals;&hairsp; 0.111&rpar;, Z stature&sol;age &lpar;P
+                    &hairsp;&equals;&hairsp; 0.136&rpar;, or pubertal stage &lpar;P
+                    &hairsp;&equals;&hairsp; 0.398&rpar;.</p>
+                <p id="para85">In the JIA group, 3&sol;30 &lpar;10&percnt;&rpar; patients were
+                    taking chloroquine, 11&sol;30 &lpar;36.7&percnt;&rpar; were taking a calcium
+                    supplement and 6&sol;30 &lpar;20&percnt;&rpar; were taking vitamin D. No
+                    patients were on glucocorticoids and&sol;or biphosphonate at the time of
+                    evaluation.</p>
+                <p id="para86">There was no association between 25&lpar;OH&rpar;D concentrations and
+                    disease activity &lpar;P &hairsp;&equals;&hairsp; 0.737&rpar;, use of vitamin D
+                    supplements &lpar;P &hairsp;&equals;&hairsp; 0.124&rpar;, use of chloroquine
+                    &lpar;P &hairsp;&equals;&hairsp; 0.661&rpar; or bone mineral density &lpar;P
+                    &hairsp;&equals;&hairsp; 0.350&rpar; in the JIA patients &lpar;Student <emph type="italic">t</emph>&hyphen;test&rpar;.</p>
+                <p id="para87">Three patients had low bone mass density for age&semi; of those, 1
+                    had insufficient 25&lpar;OH&rpar;D concentration and 1 had deficiency. Nine
+                    patients had osteopenia&semi; of those, 5 had 25&lpar;OH&rpar;D insufficiency
+                    and 2 had deficiency. One patient did not perform the DXA. We did not find any
+                    correlations between low bone mass and disease duration or corticotherapy.</p>
+                <p id="para88">Neither the laboratory tests nor the disease duration correlated with
+                    serum 25&lpar;OH&rpar;D concentrations&colon; PTH &lpar;r
+                    &hairsp;&equals;&hairsp; &hyphen;0.020, P &hairsp;&equals;&hairsp;
+                    0.877&rpar;&semi; serum albumin&hyphen;corrected calcium &lpar;r
+                    &hairsp;&equals;&hairsp; 0.057, P &hairsp;&equals;&hairsp; 0.765&rpar;&semi;
+                    serum phosphorus &lpar;r &hairsp;&equals;&hairsp; &hyphen;0.030, P
+                    &hairsp;&equals;&hairsp; 0.818&rpar;&semi; alkaline phosphatase &lpar;r
+                    &hairsp;&equals;&hairsp; 0.109, P &hairsp;&equals;&hairsp; 0.408&rpar;&semi;
+                    calciuria&sol;creatinuria ratio &lpar;r &hairsp;&equals;&hairsp; &hyphen;0.155,
+                    P &hairsp;&equals;&hairsp; 0.414&rpar;&semi; disease duration &lpar;r
+                    &hairsp;&equals;&hairsp; 0.079, P &hairsp;&equals;&hairsp; 0.680&rpar;.</p>
+            </section>
+            <section level="1" id="section4">
+                <title>Discussion</title>
+                <p id="para89">In this study involving patients with JIA, we found a high frequency
+                    of 25&lpar;OH&rpar;D insufficiency and deficiency&semi; however, these findings
+                    did not differ significantly between patients and controls. Hillman et al.
+                        <citref rids="ref14">14</citref>, also assessing serum concentrations of
+                    25&lpar;OH&rpar;D, did not report any difference between JIA patients and
+                    controls. Potential explanations for the high frequency of
+                    deficiency&sol;insufficiency in both groups may be the frequent use of sunblocks
+                        <citref rids="ref27">27</citref>, dietary and life style changes with
+                    consequent adiposity and overweight <citref rids="ref28">28</citref> and season
+                    when the analyses were performed <citref rids="ref29 ref30">29,30</citref>.</p>
+                <p id="para90">It is important to emphasize that vitamin D deficiency is a current
+                    public health issue that has been increasing, including in healthy individuals
+                    of all ages in developed and developing countries <citref rids="ref11 ref12 ref13">11&hyphen;13</citref>. These findings recently
+                    motivated a revision of the recommendations for vitamin D <citref rids="ref31">31</citref>.</p>
+                <p id="para91">There is no consensus regarding the ideal serum concentrations of
+                    25&lpar;OH&rpar;D, especially in the pediatric group, which makes it difficult
+                    to compare the results from different studies. In the present study, we decided
+                    to use the cut&hyphen;offs suggested by Grant and Holick <citref rids="ref25">25</citref> as recommended in the revision by the Institute of Medicine
+                        <citref rids="ref31">31</citref>.</p>
+                <p id="para92">Another important aspect is the kind of assay used for
+                    25&lpar;OH&rpar;D analysis, which may lead to a false diagnosis of vitamin D
+                    deficiency. The electrochemiluminescence immunoassay with the Elecsys
+                    Roche&apos;s kit for polyclonal immunoassay, used in the present study, showed
+                    in previous studies a good correlation with the method considered as gold
+                    standard, i.e., liquid chromatography mass spectrometry <citref rids="ref32 ref33">32,33</citref>.</p>
+                <p id="para93">An inverse association between PTH and 25&lpar;OH&rpar;D
+                    concentrations has been demonstrated in adults and the persistent increase in
+                    PTH levels may result in hyperparathyroidism secondary to the vitamin deficiency
+                        <citref rids="ref11 ref12 ref29">11,12,29</citref>. In children, however,
+                    this association has not been frequently observed, a fact that limits the use of
+                    PTH as a functional marker for vitamin D deficiency <citref rids="ref34">34</citref>. We found only one patient &lpar;3.3&percnt;&rpar; with
+                    elevated PTH in spite of the high frequency of vitamin D
+                    insufficiency&sol;deficiency.</p>
+                <p id="para94">Our study showed lower levels of serum albumin&hyphen;corrected
+                    calcium and alkaline phosphatase in patients with JIA compared to controls.
+                    Those alterations do not seem to be of clinical significance. A previous study
+                    showed significantly lower osteocalcin and alkaline phosphatase concentrations
+                    in individuals with JIA compared to controls, suggesting reduced bone formation
+                        <citref rids="ref14">14</citref>. Lower calcium concentrations in the JIA
+                    group, with no difference in 25&lpar;OH&rpar;D concentrations may be explained
+                    by the reduced capacity for mineral absorption described in children with
+                    arthritis <citref rids="ref17">17</citref>. A study in animal models with
+                    induced arthritis revealed a reduction in 1,25&lpar;OH&rpar;<emph type="inf">2</emph>D receptors, with a consequent reduction in calcium absorption
+                        <citref rids="ref35">35</citref>.</p>
+                <p id="para95">We did not find an association between 25&lpar;OH&rpar;D
+                    concentrations with either disease activity or duration. In adults with
+                    rheumatoid arthritis there are multiple risk factors for vitamin D deficiency
+                    and there is evidence that the deficiency is associated with the activity
+                        <citref rids="ref4 ref7">4,7</citref> and severity of the disease <citref rids="ref5 ref7 ref8 ref9">5,7&hyphen;9</citref>.</p>
+                <p id="para96">Pelajo et al. <citref rids="ref36">36</citref> found a similar
+                    frequency of reduced vitamin D in their study with 154 JIA patients, which was
+                    also not related to disease activity. They observed an association between
+                    25&lpar;OH&rpar;D concentrations and age, ethnicity, body mass index, and season
+                    of the year, but not with vitamin D intake.</p>
+                <p id="para97">A recent publication evaluating the vitamin D binding protein
+                    isoforms showed that some subgroups are related to the extension of arthritis
+                        <citref rids="ref37">37</citref>.</p>
+                <p id="para98">The use of supplements containing vitamin D was not associated with
+                    serum 25&lpar;OH&rpar;D concentrations, with low values even in patients
+                    receiving supplementation. There is still no consensus on the ideal supplement
+                    dose of vitamin D for patients with JIA. Hillman et al. <citref rids="ref17">17</citref> observed an increase in serum calcium and 25&lpar;OH&rpar;D
+                    concentrations, with no impact on bone mineral gain, with the administration of
+                    2000 IU vitamin D3&sol;day in children with arthritis. In our clinic, vitamin D
+                    supplementation at a dose of 200 to 800 IU is recommended in association with
+                    500 to 1000&emsp14;mg calcium for patients with a risk of bone mass loss
+                    &lpar;active inflammatory disease and chronic use of glucocorticoids&rpar;.</p>
+                <p id="para99">Regarding the medications used for JIA treatment, only 3 patients
+                    were on hydroxychloroquine at the time of inclusion, with no interference with
+                    vitamin D concentrations. In the literature, the effect of hydroxychloroquine on
+                    vitamin D metabolism is still controversial <citref rids="ref38">38</citref>.</p>
+                <p id="para100">DXA showed that three &lpar;10&percnt;&rpar; of the 30 patients had
+                    low bone mass density for age. A cross&hyphen;sectional study in the literature
+                    evaluating bone mass in children and young adults with JIA showed lower bone
+                    mass in the patients compared to healthy individuals <citref rids="ref39">39</citref>. A recently published prospective study involving patients with
+                    JIA showed reduced bone mass density at the initial evaluation compared to
+                    controls <citref rids="ref40">40</citref>.</p>
+                <p id="para101">There are some limitations to the present study, namely the small
+                    sample size, the cross&hyphen;sectional model used that does not allow causality
+                    evaluations, and no DXA in the control group. Furthermore, the method applied
+                    for the determination of 25&lpar;OH&rpar;D concentrations may be questioned, as
+                    well as our cut&hyphen;off values.</p>
+                <p id="para102">We observed serum insufficient&sol;deficient 25&lpar;OH&rpar;D
+                    concentrations in a large number of patients, although with no relation to
+                    disease activity or duration, use of medications and vitamin D supplementation
+                    or bone mineral density. These findings, associated with the impairment of bone
+                    metabolism observed in our patients even in the absence of alterations in bone
+                    mineral density, emphasize the importance of the follow&hyphen;up of JIA
+                    patients.</p>
+            </section>
+        </body>
+        <back>
+            <acks>
+                <title>Acknowledgments</title>
+                <p id="para103">Research supported by FAPESP
+                    &lpar;&num;08&sol;57420&hyphen;3&rpar;.</p>
+            </acks>
+            <refs>
+                <title>References</title>
+                <cit id="ref1" num="1" type="journal"><author><surname>Pelajo</surname>
+                        <initial>C</initial><initial>F</initial></author>,
+                            <author><surname>Lopez&hyphen;Benitez</surname>
+                        <initial>J</initial><initial>M</initial></author>,
+                            <author><surname>Miller</surname>
+                        <initial>L</initial><initial>C</initial></author>. <cit-tl>Vitamin D and
+                        autoimmune rheumatologic disorders.</cit-tl>
+                    <pub-tl><emph type="italic">Autoimmun Rev</emph></pub-tl>
+                    <date><year>2010</year></date>&semi; <vol>9</vol>&colon;
+                        <pages><fpage>507</fpage>&hyphen;<lpage>510</lpage></pages>, doi:
+                    <doi>10.1016&sol;j.autrev.2010.02.011</doi>.</cit>
+                <cit id="ref2" num="2" type="journal"><author><surname>Merlino</surname>
+                        <initial>L</initial><initial>A</initial></author>,
+                            <author><surname>Curtis</surname>
+                        <initial>J</initial></author>, <author><surname>Mikuls</surname>
+                        <initial>T</initial><initial>R</initial></author>,
+                            <author><surname>Cerhan</surname>
+                        <initial>J</initial><initial>R</initial></author>,
+                            <author><surname>Criswell</surname>
+                        <initial>L</initial><initial>A</initial></author>,
+                            <author><surname>Saag</surname>
+                        <initial>K</initial><initial>G</initial></author>. <cit-tl>Vitamin D intake
+                        is inversely associated with rheumatoid arthritis&colon; results from the
+                        Iowa Women&apos;s Health Study.</cit-tl>
+                    <pub-tl><emph type="italic">Arthritis Rheum</emph></pub-tl>
+                    <date><year>2004</year></date>&semi; <vol>50</vol>&colon;
+                        <pages><fpage>72</fpage>&hyphen;<lpage>77</lpage></pages>, doi:
+                    <doi>10.1002&sol;art.11434</doi>.</cit>
+                <cit id="ref3" num="3" type="journal"><author><surname>Kerr</surname>
+                        <initial>G</initial><initial>S</initial></author>,
+                            <author><surname>Sabahi</surname>
+                        <initial>I</initial></author>, <author><surname>Richards</surname>
+                        <initial>J</initial><initial>S</initial></author>,
+                            <author><surname>Caplan</surname>
+                        <initial>L</initial></author>, <author><surname>Cannon</surname>
+                        <initial>G</initial><initial>W</initial></author>,
+                            <author><surname>Reimold</surname>
+                        <initial>A</initial></author>, <etal/>. <cit-tl>Prevalence of vitamin D
+                        insufficiency&sol;deficiency in rheumatoid arthritis and associations with
+                        disease severity and activity.</cit-tl>
+                    <pub-tl><emph type="italic">J Rheumatol</emph></pub-tl>
+                    <date><year>2011</year></date>&semi; <vol>38</vol>&colon;
+                        <pages><fpage>53</fpage>&hyphen;<lpage>59</lpage></pages>, doi:
+                    <doi>10.3899&sol;jrheum.100516</doi>.</cit>
+                <cit id="ref4" num="4" type="journal"><author><surname>Vieira</surname>
+                        <initial>V</initial><initial>M</initial></author>,
+                            <author><surname>Hart</surname>
+                        <initial>J</initial><initial>E</initial></author>,
+                            <author><surname>Webster</surname>
+                        <initial>T</initial><initial>F</initial></author>,
+                            <author><surname>Weinberg</surname>
+                        <initial>J</initial></author>, <author><surname>Puett</surname>
+                        <initial>R</initial></author>, <author><surname>Laden</surname>
+                        <initial>F</initial></author>, <etal/>. <cit-tl>Association between
+                        residences in U.S. northern latitudes and rheumatoid arthritis&colon; A
+                        spatial analysis of the Nurses&apos; Health Study.</cit-tl>
+                    <pub-tl><emph type="italic">Environ Health Perspect</emph></pub-tl>
+                    <date><year>2010</year></date>&semi; <vol>118</vol>&colon;
+                        <pages><fpage>957</fpage>&hyphen;<lpage>961</lpage></pages>, doi:
+                    <doi>10.1289&sol;ehp.0901861</doi>.</cit>
+                <cit id="ref5" num="5" type="journal"><author><surname>Braun&hyphen;Moscovici</surname>
+                        <initial>Y</initial></author>, <author><surname>Toledano</surname>
+                        <initial>K</initial></author>, <author><surname>Markovits</surname>
+                        <initial>D</initial></author>, <author><surname>Rozin</surname>
+                        <initial>A</initial></author>, <author><surname>Nahir</surname>
+                        <initial>A</initial><initial>M</initial></author>,
+                            <author><surname>Balbir&hyphen;Gurman</surname>
+                        <initial>A</initial></author>. <cit-tl>Vitamin D level&colon; is it related
+                        to disease activity in inflammatory joint disease&quest;</cit-tl>
+                    <pub-tl><emph type="italic">Rheumatol Int</emph></pub-tl>
+                    <date><year>2011</year></date>&semi; <vol>31</vol>&colon;
+                        <pages><fpage>493</fpage>&hyphen;<lpage>499</lpage></pages>, doi:
+                    <doi>10.1007&sol;s00296&hyphen;009&hyphen;1251&hyphen;6</doi>.</cit>
+                <cit id="ref6" num="6" type="journal"><author><surname>Haque</surname>
+                        <initial>U</initial><initial>J</initial></author>,
+                            <author><surname>Bartlett</surname>
+                        <initial>S</initial><initial>J</initial></author>. <cit-tl>Relationships
+                        among vitamin D, disease activity, pain and disability in rheumatoid
+                        arthritis.</cit-tl>
+                    <pub-tl><emph type="italic">Clin Exp Rheumatol</emph></pub-tl>
+                    <date><year>2010</year></date>&semi; <vol>28</vol>&colon;
+                        <pages><fpage>745</fpage>&hyphen;<lpage>747</lpage></pages>.</cit>
+                <cit id="ref7" num="7" type="journal"><author><surname>Craig</surname>
+                        <initial>S</initial><initial>M</initial></author>,
+                            <author><surname>Yu</surname>
+                        <initial>F</initial></author>, <author><surname>Curtis</surname>
+                        <initial>J</initial><initial>R</initial></author>,
+                            <author><surname>Alarcon</surname>
+                        <initial>G</initial><initial>S</initial></author>,
+                            <author><surname>Conn</surname>
+                        <initial>D</initial><initial>L</initial></author>,
+                            <author><surname>Jonas</surname>
+                        <initial>B</initial></author>, <etal/>. <cit-tl>Vitamin D status and its
+                        associations with disease activity and severity in African Americans with
+                        recent&hyphen;onset rheumatoid arthritis.</cit-tl>
+                    <pub-tl><emph type="italic">J Rheumatol</emph></pub-tl>
+                    <date><year>2010</year></date>&semi; <vol>37</vol>&colon;
+                        <pages><fpage>275</fpage>&hyphen;<lpage>281</lpage></pages>, doi:
+                    <doi>10.3899&sol;jrheum.090705</doi>.</cit>
+                <cit id="ref8" num="8" type="journal"><author><surname>Rossini</surname>
+                        <initial>M</initial></author>, <author><surname>Maddali Bongi</surname>
+                        <initial>S</initial></author>, <author><surname>La Montagna</surname>
+                        <initial>G</initial></author>, <author><surname>Minisola</surname>
+                        <initial>G</initial></author>, <author><surname>Malavolta</surname>
+                        <initial>N</initial></author>, <author><surname>Bernini</surname>
+                        <initial>L</initial></author>, <etal/>. <cit-tl>Vitamin D deficiency in
+                        rheumatoid arthritis&colon; prevalence, determinants and associations with
+                        disease activity and disability.</cit-tl>
+                    <pub-tl><emph type="italic">Arthritis Res Ther</emph></pub-tl>
+                    <date><year>2010</year></date>&semi; <vol>12</vol>&colon;
+                        <pages><fpage>R216</fpage></pages>, doi:
+                    <doi>10.1186&sol;ar3195</doi>.</cit>
+                <cit id="ref9" num="9" type="journal"><author><surname>Cutolo</surname>
+                        <initial>M</initial></author>, <author><surname>Otsa</surname>
+                        <initial>K</initial></author>, <author><surname>Laas</surname>
+                        <initial>K</initial></author>, <author><surname>Yprus</surname>
+                        <initial>M</initial></author>, <author><surname>Lehtme</surname>
+                        <initial>R</initial></author>, <author><surname>Secchi</surname>
+                        <initial>M</initial><initial>E</initial></author>, <etal/>.
+                        <cit-tl>Circannual vitamin d serum levels and disease activity in rheumatoid
+                        arthritis&colon; Northern versus Southern Europe.</cit-tl>
+                    <pub-tl><emph type="italic">Clin Exp Rheumatol</emph></pub-tl>
+                    <date><year>2006</year></date>&semi; <vol>24</vol>&colon;
+                        <pages><fpage>702</fpage>&hyphen;<lpage>704</lpage></pages>.</cit>
+                <cit id="ref10" num="10" type="journal"><author><surname>Andjelkovic</surname>
+                        <initial>Z</initial></author>, <author><surname>Vojinovic</surname>
+                        <initial>J</initial></author>, <author><surname>Pejnovic</surname>
+                        <initial>N</initial></author>, <author><surname>Popovic</surname>
+                        <initial>M</initial></author>, <author><surname>Dujic</surname>
+                        <initial>A</initial></author>, <author><surname>Mitrovic</surname>
+                        <initial>D</initial></author>, <etal/>. <cit-tl>Disease modifying and
+                        immunomodulatory effects of high dose 1 alpha &lpar;OH&rpar; D3 in
+                        rheumatoid arthritis patients.</cit-tl>
+                    <pub-tl><emph type="italic">Clin Exp Rheumatol</emph></pub-tl>
+                    <date><year>1999</year></date>&semi; <vol>17</vol>&colon;
+                        <pages><fpage>453</fpage>&hyphen;<lpage>456</lpage></pages>.</cit>
+                <cit id="ref11" num="11" type="journal"><author><surname>Kumar</surname>
+                        <initial>J</initial></author>, <author><surname>Muntner</surname>
+                        <initial>P</initial></author>, <author><surname>Kaskel</surname>
+                        <initial>F</initial><initial>J</initial></author>,
+                            <author><surname>Hailpern</surname>
+                        <initial>S</initial><initial>M</initial></author>,
+                            <author><surname>Melamed</surname>
+                        <initial>M</initial><initial>L</initial></author>. <cit-tl>Prevalence and
+                        associations of 25&hyphen;hydroxyvitamin D deficiency in US children&colon;
+                        NHANES 2001&hyphen;2004.</cit-tl>
+                    <pub-tl><emph type="italic">Pediatrics</emph></pub-tl>
+                    <date><year>2009</year></date>&semi; <vol>124</vol>&colon;
+                        <pages><fpage>e362</fpage>&hyphen;<lpage>e370</lpage></pages>, doi:
+                    <doi>10.1542&sol;peds.2009&hyphen;0051</doi>.</cit>
+                <cit id="ref12" num="12" type="journal"><author><surname>Gordon</surname>
+                        <initial>C</initial><initial>M</initial></author>,
+                            <author><surname>Feldman</surname>
+                        <initial>H</initial><initial>A</initial></author>,
+                            <author><surname>Sinclair</surname>
+                        <initial>L</initial></author>, <author><surname>Williams</surname>
+                        <initial>A</initial><initial>L</initial></author>,
+                            <author><surname>Kleinman</surname>
+                        <initial>P</initial><initial>K</initial></author>,
+                            <author><surname>Perez&hyphen;Rossello</surname>
+                        <initial>J</initial></author>, <etal/>. <cit-tl>Prevalence of vitamin D
+                        deficiency among healthy infants and toddlers.</cit-tl>
+                    <pub-tl><emph type="italic">Arch Pediatr Adolesc Med</emph></pub-tl>
+                    <date><year>2008</year></date>&semi; <vol>162</vol>&colon;
+                        <pages><fpage>505</fpage>&hyphen;<lpage>512</lpage></pages>, doi:
+                    <doi>10.1001&sol;archpedi.162.6.505</doi>.</cit>
+                <cit id="ref13" num="13" type="journal"><author><surname>Peters</surname>
+                        <initial>B</initial><initial>S</initial></author>, <author><surname>dos
+                            Santos</surname>
+                        <initial>L</initial><initial>C</initial></author>,
+                            <author><surname>Fisberg</surname>
+                        <initial>M</initial></author>, <author><surname>Wood</surname>
+                        <initial>R</initial><initial>J</initial></author>,
+                            <author><surname>Martini</surname>
+                        <initial>L</initial><initial>A</initial></author>. <cit-tl>Prevalence of
+                        vitamin D insufficiency in Brazilian adolescents.</cit-tl>
+                    <pub-tl><emph type="italic">Ann Nutr Metab</emph></pub-tl>
+                    <date><year>2009</year></date>&semi; <vol>54</vol>&colon;
+                        <pages><fpage>15</fpage>&hyphen;<lpage>21</lpage></pages>, doi:
+                    <doi>10.1159&sol;000199454</doi>.</cit>
+                <cit id="ref14" num="14" type="journal"><author><surname>Hillman</surname>
+                        <initial>L</initial></author>, <author><surname>Cassidy</surname>
+                        <initial>J</initial><initial>T</initial></author>,
+                            <author><surname>Johnson</surname>
+                        <initial>L</initial></author>, <author><surname>Lee</surname>
+                        <initial>D</initial></author>, <author><surname>Allen</surname>
+                        <initial>S</initial><initial>H</initial></author>. <cit-tl>Vitamin D
+                        metabolism and bone mineralization in children with juvenile rheumatoid
+                        arthritis.</cit-tl>
+                    <pub-tl><emph type="italic">J Pediatr</emph></pub-tl>
+                    <date><year>1994</year></date>&semi; <vol>124</vol>&colon;
+                        <pages><fpage>910</fpage>&hyphen;<lpage>916</lpage></pages>, doi:
+                    <doi>10.1016&sol;S0022&hyphen;3476&lpar;05&rpar;83179&hyphen;8</doi>.</cit>
+                <cit id="ref15" num="15" type="journal"><author><surname>Pepmueller</surname>
+                        <initial>P</initial><initial>H</initial></author>,
+                            <author><surname>Cassidy</surname>
+                        <initial>J</initial><initial>T</initial></author>,
+                            <author><surname>Allen</surname>
+                        <initial>S</initial><initial>H</initial></author>,
+                            <author><surname>Hillman</surname>
+                        <initial>L</initial><initial>S</initial></author>. <cit-tl>Bone
+                        mineralization and bone mineral metabolism in children with juvenile
+                        rheumatoid arthritis.</cit-tl>
+                    <pub-tl><emph type="italic">Arthritis Rheum</emph></pub-tl>
+                    <date><year>1996</year></date>&semi; <vol>39</vol>&colon;
+                        <pages><fpage>746</fpage>&hyphen;<lpage>757</lpage></pages>, doi:
+                    <doi>10.1002&sol;art.1780390506</doi>.</cit>
+                <cit id="ref16" num="16" type="journal"><author><surname>Falcini</surname>
+                        <initial>F</initial></author>, <author><surname>Ermini</surname>
+                        <initial>M</initial></author>, <author><surname>Bagnoli</surname>
+                        <initial>F</initial></author>. <cit-tl>Bone turnover is reduced in children
+                        with juvenile rheumatoid arthritis.</cit-tl>
+                    <pub-tl><emph type="italic">J Endocrinol Invest</emph></pub-tl>
+                    <date><year>1998</year></date>&semi; <vol>21</vol>&colon;
+                        <pages><fpage>31</fpage>&hyphen;<lpage>36</lpage></pages>.</cit>
+                <cit id="ref17" num="17" type="journal"><author><surname>Hillman</surname>
+                        <initial>L</initial><initial>S</initial></author>,
+                            <author><surname>Cassidy</surname>
+                        <initial>J</initial><initial>T</initial></author>,
+                            <author><surname>Chanetsa</surname>
+                        <initial>F</initial></author>, <author><surname>Hewett</surname>
+                        <initial>J</initial><initial>E</initial></author>,
+                            <author><surname>Higgins</surname>
+                        <initial>B</initial><initial>J</initial></author>,
+                            <author><surname>Robertson</surname>
+                        <initial>J</initial><initial>D</initial></author>. <cit-tl>Percent true
+                        calcium absorption, mineral metabolism, and bone mass in children with
+                        arthritis&colon; effect of supplementation with vitamin D3 and
+                        calcium.</cit-tl>
+                    <pub-tl><emph type="italic">Arthritis Rheum</emph></pub-tl>
+                    <date><year>2008</year></date>&semi; <vol>58</vol>&colon;
+                        <pages><fpage>3255</fpage>&hyphen;<lpage>3263</lpage></pages>, doi:
+                    <doi>10.1002&sol;art.23809</doi>.</cit>
+                <cit id="ref18" num="18" type="journal"><author><surname>Petty</surname>
+                        <initial>R</initial><initial>E</initial></author>,
+                            <author><surname>Southwood</surname>
+                        <initial>T</initial><initial>R</initial></author>,
+                            <author><surname>Manners</surname>
+                        <initial>P</initial></author>, <author><surname>Baum</surname>
+                        <initial>J</initial></author>, <author><surname>Glass</surname>
+                        <initial>D</initial><initial>N</initial></author>,
+                            <author><surname>Goldenberg</surname>
+                        <initial>J</initial></author>, <etal/>. <cit-tl>International League of
+                        Associations for Rheumatology classification of juvenile idiopathic
+                        arthritis&colon; second revision, Edmonton, 2001.</cit-tl>
+                    <pub-tl><emph type="italic">J Rheumatol</emph></pub-tl>
+                    <date><year>2004</year></date>&semi; <vol>31</vol>&colon;
+                        <pages><fpage>390</fpage>&hyphen;<lpage>392</lpage></pages>.</cit>
+                <cit id="ref19" num="19" type="journal"><author><surname>Wallace</surname>
+                        <initial>C</initial><initial>A</initial></author>,
+                            <author><surname>Ruperto</surname>
+                        <initial>N</initial></author>, <author><surname>Giannini</surname>
+                        <initial>E</initial></author>. <cit-tl>Preliminary criteria for clinical
+                        remission for select categories of juvenile idiopathic arthritis.</cit-tl>
+                    <pub-tl><emph type="italic">J Rheumatol</emph></pub-tl>
+                    <date><year>2004</year></date>&semi; <vol>31</vol>&colon;
+                        <pages><fpage>2290</fpage>&hyphen;<lpage>2294</lpage></pages>.</cit>
+                <cit id="ref20" num="20" type="journal"><author><surname>Machado</surname>
+                        <initial>C</initial></author>, <author><surname>Ruperto</surname>
+                        <initial>N</initial></author>. <cit-tl>Consensus in pediatric rheumatology
+                        part I &hyphen; criteria definition of inactive disease and remission in
+                        juvenile idiopathic arthritis&sol;juvenile rheumatoid arthritis.</cit-tl>
+                    <pub-tl><emph type="italic">Rev Bras Reumatol</emph></pub-tl>
+                    <date><year>2012</year></date>&semi; <vol>45</vol>&colon;
+                        <pages><fpage>9</fpage>&hyphen;<lpage>13</lpage></pages>.</cit>
+                <cit id="ref21" num="21" type="journal"><corporate-author>
+                        <org-name>Physical status&colon; the use and interpretation of
+                            anthropometry</org-name>
+                    </corporate-author>. <cit-tl>Report of a WHO Expert Committee.</cit-tl>
+                    <pub-tl><emph type="italic">World Health Organization Tech Rep
+                        Ser</emph></pub-tl>
+                    <date><year>1995</year></date>&semi; <vol>854</vol>&colon;
+                        <pages><fpage>1</fpage>&hyphen;<lpage>452</lpage></pages>.</cit>
+                <cit id="ref22" num="22" type="journal"><author><surname>de Onis</surname>
+                        <initial>M</initial></author>, <author><surname>Onyango</surname>
+                        <initial>A</initial><initial>W</initial></author>,
+                            <author><surname>Borghi</surname>
+                        <initial>E</initial></author>, <author><surname>Siyam</surname>
+                        <initial>A</initial></author>, <author><surname>Nishida</surname>
+                        <initial>C</initial></author>, <author><surname>Siekmann</surname>
+                        <initial>J</initial></author>. <cit-tl>Development of a WHO growth reference
+                        for school&hyphen;aged children and adolescents.</cit-tl>
+                    <pub-tl><emph type="italic">Bull World Health Organ</emph></pub-tl>
+                    <date><year>2007</year></date>&semi; <vol>85</vol>&colon;
+                        <pages><fpage>660</fpage>&hyphen;<lpage>667</lpage></pages>, doi:
+                    <doi>10.2471&sol;BLT.07.043497</doi>.</cit>
+                <cit id="ref23" num="23" type="journal"><corporate-author>
+                        <org-name>Obesity&colon; preventing and managing the global
+                            epidemic</org-name>
+                    </corporate-author>. <cit-tl>Report of a WHO consultation.</cit-tl>
+                    <pub-tl><emph type="italic">World Health Organization Tech Rep
+                        Ser</emph></pub-tl>
+                    <date><year>2000</year></date>&semi; <vol>894</vol>&colon;
+                        <pages><fpage>i&hyphen;xii</fpage>&hyphen;<lpage>1&hyphen;253</lpage></pages>.</cit>
+                <cit id="ref24" num="24" type="journal"><author><surname>Marshall</surname>
+                        <initial>W</initial><initial>A</initial></author>,
+                            <author><surname>Tanner</surname>
+                        <initial>J</initial><initial>M</initial></author>. <cit-tl>Variations in
+                        pattern of pubertal changes in girls.</cit-tl>
+                    <pub-tl><emph type="italic">Arch Dis Child</emph></pub-tl>
+                    <date><year>1969</year></date>&semi; <vol>44</vol>&colon;
+                        <pages><fpage>291</fpage>&hyphen;<lpage>303</lpage></pages>, doi:
+                    <doi>10.1136&sol;adc.44.235.291</doi>.</cit>
+                <cit id="ref25" num="25" type="journal"><author><surname>Grant</surname>
+                        <initial>W</initial><initial>B</initial></author>,
+                            <author><surname>Holick</surname>
+                        <initial>M</initial><initial>F</initial></author>. <cit-tl>Benefits and
+                        requirements of vitamin D for optimal health&colon; a review.</cit-tl>
+                    <pub-tl><emph type="italic">Altern Med Rev</emph></pub-tl>
+                    <date><year>2005</year></date>&semi; <vol>10</vol>&colon;
+                        <pages><fpage>94</fpage>&hyphen;<lpage>111</lpage></pages>.</cit>
+                <cit id="ref26" num="26" type="journal"><author><surname>Khan</surname>
+                        <initial>A</initial><initial>A</initial></author>,
+                            <author><surname>Bachrach</surname>
+                        <initial>L</initial></author>, <author><surname>Brown</surname>
+                        <initial>J</initial><initial>P</initial></author>,
+                            <author><surname>Hanley</surname>
+                        <initial>D</initial><initial>A</initial></author>,
+                            <author><surname>Josse</surname>
+                        <initial>R</initial><initial>G</initial></author>,
+                            <author><surname>Kendler</surname>
+                        <initial>D</initial><initial>L</initial></author>, <etal/>.
+                        <cit-tl>Standards and guidelines for performing central dual&hyphen;energy
+                        X&hyphen;ray absorptiometry in premenopausal women, men, and
+                        children.</cit-tl>
+                    <pub-tl><emph type="italic">J Clin Densitom</emph></pub-tl>
+                    <date><year>2004</year></date>&semi; <vol>7</vol>&colon;
+                        <pages><fpage>51</fpage>&hyphen;<lpage>64</lpage></pages>, doi:
+                    <doi>10.1385&sol;JCD&colon;7&colon;1&colon;51</doi>.</cit>
+                <cit id="ref27" num="27" type="journal"><author><surname>Looker</surname>
+                        <initial>A</initial><initial>C</initial></author>,
+                            <author><surname>Pfeiffer</surname>
+                        <initial>C</initial><initial>M</initial></author>,
+                            <author><surname>Lacher</surname>
+                        <initial>D</initial><initial>A</initial></author>,
+                            <author><surname>Schleicher</surname>
+                        <initial>R</initial><initial>L</initial></author>,
+                            <author><surname>Picciano</surname>
+                        <initial>M</initial><initial>F</initial></author>,
+                            <author><surname>Yetley</surname>
+                        <initial>E</initial><initial>A</initial></author>. <cit-tl>Serum
+                        25&hyphen;hydroxyvitamin D status of the US population&colon;
+                        1988&hyphen;1994 compared with 2000&hyphen;2004.</cit-tl>
+                    <pub-tl><emph type="italic">Am J Clin Nutr</emph></pub-tl>
+                    <date><year>2008</year></date>&semi; <vol>88</vol>&colon;
+                        <pages><fpage>1519</fpage>&hyphen;<lpage>1527</lpage></pages>, doi:
+                    <doi>10.3945&sol;ajcn.2008.26182</doi>.</cit>
+                <cit id="ref28" num="28" type="journal"><author><surname>Arnberg</surname>
+                        <initial>K</initial></author>, <author><surname>Ostergard</surname>
+                        <initial>M</initial></author>, <author><surname>Madsen</surname>
+                        <initial>A</initial><initial>L</initial></author>,
+                            <author><surname>Krarup</surname>
+                        <initial>H</initial></author>, <author><surname>Michaelsen</surname>
+                        <initial>K</initial><initial>F</initial></author>,
+                            <author><surname>Molgaard</surname>
+                        <initial>C</initial></author>. <cit-tl>Associations between vitamin D status
+                        in infants and blood lipids, body mass index and waist
+                        circumference.</cit-tl>
+                    <pub-tl><emph type="italic">Acta Paediatr</emph></pub-tl>
+                    <date><year>2011</year></date>&semi; <vol>100</vol>&colon;
+                        <pages><fpage>1244</fpage>&hyphen;<lpage>1248</lpage></pages>, doi:
+                    <doi>10.1111&sol;j.1651&hyphen;2227.2011.02273.x</doi>.</cit>
+                <cit id="ref29" num="29" type="journal"><author><surname>Gordon</surname>
+                        <initial>C</initial><initial>M</initial></author>,
+                            <author><surname>DePeter</surname>
+                        <initial>K</initial><initial>C</initial></author>,
+                            <author><surname>Feldman</surname>
+                        <initial>H</initial><initial>A</initial></author>,
+                            <author><surname>Grace</surname>
+                        <initial>E</initial></author>, <author><surname>Emans</surname>
+                        <initial>S</initial><initial>J</initial></author>. <cit-tl>Prevalence of
+                        vitamin D deficiency among healthy adolescents.</cit-tl>
+                    <pub-tl><emph type="italic">Arch Pediatr Adolesc Med</emph></pub-tl>
+                    <date><year>2004</year></date>&semi; <vol>158</vol>&colon;
+                        <pages><fpage>531</fpage>&hyphen;<lpage>537</lpage></pages>, doi:
+                    <doi>10.1001&sol;archpedi.158.6.531</doi>.</cit>
+                <cit id="ref30" num="30" type="journal"><author><surname>Houghton</surname>
+                        <initial>L</initial><initial>A</initial></author>,
+                            <author><surname>Szymlek&hyphen;Gay</surname>
+                        <initial>E</initial><initial>A</initial></author>,
+                            <author><surname>Gray</surname>
+                        <initial>A</initial><initial>R</initial></author>,
+                            <author><surname>Ferguson</surname>
+                        <initial>E</initial><initial>L</initial></author>,
+                            <author><surname>Deng</surname>
+                        <initial>X</initial></author>, <author><surname>Heath</surname>
+                        <initial>A</initial><initial>L</initial></author>. <cit-tl>Predictors of
+                        vitamin D status and its association with parathyroid hormone in young New
+                        Zealand children.</cit-tl>
+                    <pub-tl><emph type="italic">Am J Clin Nutr</emph></pub-tl>
+                    <date><year>2010</year></date>&semi; <vol>92</vol>&colon;
+                        <pages><fpage>69</fpage>&hyphen;<lpage>76</lpage></pages>, doi:
+                    <doi>10.3945&sol;ajcn.2009.29055</doi>.</cit>
+                <cit id="ref31" num="31" type="journal"><author><surname>Abrams</surname>
+                        <initial>S</initial><initial>A</initial></author>. <cit-tl>Dietary
+                        guidelines for calcium and vitamin D&colon; a new era.</cit-tl>
+                    <pub-tl><emph type="italic">Pediatrics</emph></pub-tl>
+                    <date><year>2011</year></date>&semi; <vol>127</vol>&colon;
+                        <pages><fpage>566</fpage>&hyphen;<lpage>568</lpage></pages>, doi:
+                    <doi>10.1542&sol;peds.2010&hyphen;3576</doi>.</cit>
+                <cit id="ref32" num="32" type="journal"><author><surname>Leino</surname>
+                        <initial>A</initial></author>, <author><surname>Turpeinen</surname>
+                        <initial>U</initial></author>, <author><surname>Koskinen</surname>
+                        <initial>P</initial></author>. <cit-tl>Automated measurement of 25&hyphen;OH
+                        vitamin D3 on the Roche Modular E170 analyzer.</cit-tl>
+                    <pub-tl><emph type="italic">Clin Chem</emph></pub-tl>
+                    <date><year>2008</year></date>&semi; <vol>54</vol>&colon;
+                        <pages><fpage>2059</fpage>&hyphen;<lpage>2062</lpage></pages>, doi:
+                    <doi>10.1373&sol;clinchem.2008.111732</doi>.</cit>
+                <cit id="ref33" num="33" type="journal"><author><surname>Connell</surname>
+                        <initial>A</initial><initial>B</initial></author>,
+                            <author><surname>Jenkins</surname>
+                        <initial>N</initial></author>, <author><surname>Black</surname>
+                        <initial>M</initial></author>, <author><surname>Pasco</surname>
+                        <initial>J</initial><initial>A</initial></author>,
+                            <author><surname>Kotowicz</surname>
+                        <initial>M</initial><initial>A</initial></author>,
+                            <author><surname>Schneider</surname>
+                        <initial>H</initial><initial>G</initial></author>. <cit-tl>Overreporting of
+                        vitamin D deficiency with the Roche Elecsys Vitamin D3
+                        &lpar;25&hyphen;OH&rpar; method.</cit-tl>
+                    <pub-tl><emph type="italic">Pathology</emph></pub-tl>
+                    <date><year>2011</year></date>&semi; <vol>43</vol>&colon;
+                        <pages><fpage>368</fpage>&hyphen;<lpage>371</lpage></pages>, doi:
+                    <doi>10.1097&sol;PAT.0b013e328346431c</doi>.</cit>
+                <cit id="ref34" num="34" type="journal"><author><surname>Thacher</surname>
+                        <initial>T</initial><initial>D</initial></author>,
+                            <author><surname>Clarke</surname>
+                        <initial>B</initial><initial>L</initial></author>. <cit-tl>Vitamin D
+                        insufficiency.</cit-tl>
+                    <pub-tl><emph type="italic">Mayo Clin Proc</emph></pub-tl>
+                    <date><year>2011</year></date>&semi; <vol>86</vol>&colon;
+                        <pages><fpage>50</fpage>&hyphen;<lpage>60</lpage></pages>, doi:
+                    <doi>10.4065&sol;mcp.2010.0567</doi>.</cit>
+                <cit id="ref35" num="35" type="journal"><author><surname>Langman</surname>
+                        <initial>C</initial><initial>B</initial></author>,
+                            <author><surname>Ford</surname>
+                        <initial>K</initial><initial>K</initial></author>,
+                            <author><surname>Pachman</surname>
+                        <initial>L</initial><initial>M</initial></author>,
+                            <author><surname>Glorieux</surname>
+                        <initial>F</initial></author>. <cit-tl>Vitamin D metabolism in rats with
+                        adjuvant&hyphen;induced arthritis.</cit-tl>
+                    <pub-tl><emph type="italic">J Bone Miner Res</emph></pub-tl>
+                    <date><year>1990</year></date>&semi; <vol>5</vol>&colon;
+                        <pages><fpage>905</fpage>&hyphen;<lpage>913</lpage></pages>, doi:
+                    <doi>10.1002&sol;jbmr.5650050903</doi>.</cit>
+                <cit id="ref36" num="36" type="journal"><author><surname>Pelajo</surname>
+                        <initial>C</initial><initial>F</initial></author>,
+                            <author><surname>Lopez&hyphen;Benitez</surname>
+                        <initial>J</initial><initial>M</initial></author>,
+                            <author><surname>Kent</surname>
+                        <initial>D</initial><initial>M</initial></author>,
+                            <author><surname>Price</surname>
+                        <initial>L</initial><initial>L</initial></author>,
+                            <author><surname>Miller</surname>
+                        <initial>L</initial><initial>C</initial></author>,
+                            <author><surname>Dawson&hyphen;Hughes</surname>
+                        <initial>B</initial></author>. <cit-tl>25&hyphen;Hydroxyvitamin D levels and
+                        juvenile idiopathic arthritis&colon; Is there an association with disease
+                        activity&quest;</cit-tl>
+                    <pub-tl><emph type="italic">Rheumatol Int</emph></pub-tl>
+                    <date><year>2011</year></date>&semi; doi:
+                    <doi>10.1007&sol;s00296&hyphen;011&hyphen;2287&hyphen;y</doi>.</cit>
+                <cit id="ref37" num="37" type="journal"><author><surname>Gibson</surname>
+                        <initial>D</initial><initial>S</initial></author>,
+                            <author><surname>Newell</surname>
+                        <initial>K</initial></author>, <author><surname>Evans</surname>
+                        <initial>A</initial><initial>N</initial></author>,
+                            <author><surname>Finnegan</surname>
+                        <initial>S</initial></author>, <author><surname>Manning</surname>
+                        <initial>G</initial></author>, <author><surname>Scaife</surname>
+                        <initial>C</initial></author>, <etal/>. <cit-tl>Vitamin D binding protein
+                        isoforms as candidate predictors of disease extension in childhood
+                        arthritis.</cit-tl>
+                    <pub-tl><emph type="italic">J Proteomics</emph></pub-tl>
+                    <date><year>2012</year></date>&semi; <vol>75</vol>&colon;
+                        <pages><fpage>5479</fpage>&hyphen;<lpage>5492</lpage></pages>, doi:
+                    <doi>10.1016&sol;j.jprot.2012.06.024</doi>.</cit>
+                <cit id="ref38" num="38" type="journal"><author><surname>Huisman</surname>
+                        <initial>A</initial><initial>M</initial></author>,
+                            <author><surname>White</surname>
+                        <initial>K</initial><initial>P</initial></author>,
+                            <author><surname>Algra</surname>
+                        <initial>A</initial></author>, <author><surname>Harth</surname>
+                        <initial>M</initial></author>, <author><surname>Vieth</surname>
+                        <initial>R</initial></author>, <author><surname>Jacobs</surname>
+                        <initial>J</initial><initial>W</initial></author>, <etal/>. <cit-tl>Vitamin
+                        D levels in women with systemic lupus erythematosus and
+                        fibromyalgia.</cit-tl>
+                    <pub-tl><emph type="italic">J Rheumatol</emph></pub-tl>
+                    <date><year>2001</year></date>&semi; <vol>28</vol>&colon;
+                        <pages><fpage>2535</fpage>&hyphen;<lpage>2539</lpage></pages>.</cit>
+                <cit id="ref39" num="39" type="journal"><author><surname>Celiker</surname>
+                        <initial>R</initial></author>, <author><surname>Bal</surname>
+                        <initial>S</initial></author>, <author><surname>Bakkaloglu</surname>
+                        <initial>A</initial></author>, <author><surname>Ozaydin</surname>
+                        <initial>E</initial></author>, <author><surname>Coskun</surname>
+                        <initial>T</initial></author>, <author><surname>Cetin</surname>
+                        <initial>A</initial></author>, <etal/>. <cit-tl>Factors playing a role in
+                        the development of decreased bone mineral density in juvenile chronic
+                        arthritis.</cit-tl>
+                    <pub-tl><emph type="italic">Rheumatol Int</emph></pub-tl>
+                    <date><year>2003</year></date>&semi; <vol>23</vol>&colon;
+                        <pages><fpage>127</fpage>&hyphen;<lpage>129</lpage></pages>.</cit>
+                <cit id="ref40" num="40" type="journal"><author><surname>Stagi</surname>
+                        <initial>S</initial></author>, <author><surname>Masi</surname>
+                        <initial>L</initial></author>, <author><surname>Capannini</surname>
+                        <initial>S</initial></author>, <author><surname>Cimaz</surname>
+                        <initial>R</initial></author>, <author><surname>Tonini</surname>
+                        <initial>G</initial></author>,
+                            <author><surname>Matucci&hyphen;Cerinic</surname>
+                        <initial>M</initial></author>, <etal/>. <cit-tl>Cross&hyphen;sectional and
+                        longitudinal evaluation of bone mass in children and young adults with
+                        juvenile idiopathic arthritis&colon; the role of bone mass determinants in a
+                        large cohort of patients.</cit-tl>
+                    <pub-tl><emph type="italic">J Rheumatol</emph></pub-tl>
+                    <date><year>2010</year></date>&semi; <vol>37</vol>&colon;
+                        <pages><fpage>1935</fpage>&hyphen;<lpage>1943</lpage></pages>, doi:
+                    <doi>10.3899&sol;jrheum.091241</doi>.</cit>
+            </refs>
+        </back>
+    </article>
+</doc>
