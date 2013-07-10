@@ -84,7 +84,6 @@
             </xsl:otherwise>
         </xsl:choose>
     </xsl:variable>
-
     <xsl:variable name="AbbrTitle">
         <xsl:call-template name="string-replace-all">
             <xsl:with-param name="text" select="//jnl:jnl-info/jnl:medline-jnl-tl/." />
@@ -94,6 +93,10 @@
         <xsl:text>.</xsl:text>
     </xsl:variable>
     
+    
+    <xsl:variable name="Lang">
+        <xsl:text>en</xsl:text>
+    </xsl:variable>
     <xsl:variable name="OneLine">
         <xsl:text>yes</xsl:text>
     </xsl:variable>
@@ -149,7 +152,9 @@
         <xsl:text disable-output-escaping="yes">&lt;article article-type="</xsl:text>
         <xsl:value-of select="$TypeCode"/>
         <xsl:text disable-output-escaping="yes">" dtd-version="3.0" </xsl:text>
-        <xsl:text disable-output-escaping="yes">xmlns:lang="en" </xsl:text>
+        <xsl:text disable-output-escaping="yes">xmlns:lang="</xsl:text>
+        <xsl:value-of select="$Lang"/>
+        <xsl:text disable-output-escaping="yes">" </xsl:text>
         <xsl:text disable-output-escaping="yes">xmlns:xlink="http://www.w3.org/1999/xlink" </xsl:text>
         <xsl:text disable-output-escaping="yes">xmlns:mml="http://www.w3.org/1998/Math/MathML"&gt;</xsl:text>
         <xsl:call-template name="newline"/>
@@ -169,7 +174,60 @@
                             <xsl:attribute name="abbrev-type">publisher</xsl:attribute>
                             <xsl:value-of select="$AbbrTitle"/>
                         </xsl:element>
-                        
+                    </xsl:element>
+                    <xsl:element name="issn">
+                        <xsl:attribute name="pub-type">ppub</xsl:attribute>
+                        <xsl:apply-templates
+                            select="jnl:jnl-info/jnl:issn[@type='print']/."/>
+                    </xsl:element>
+                    <xsl:choose>
+                        <xsl:when
+                            test="//jnl:jnl-info/jnl:abrv-jnl-tl = 'BJB'  or //jnl:jnl-info/jnl:abrv-jnl-tl = 'bjb'">
+                            <xsl:element name="publisher">
+                                <xsl:element name="publisher-name">
+                                    <xsl:text><![CDATA[Associa&ccedil;&atilde;o Brasileira de Divulga&ccedil;&atilde;o Cient&iacute;fica]]></xsl:text>
+                                </xsl:element>
+                            </xsl:element>
+                        </xsl:when>
+                    </xsl:choose>
+                </xsl:element>
+                <xsl:element name="article-meta">
+                    <xsl:element name="article-id">
+                        <xsl:attribute name="pub-id-type">publisher-id</xsl:attribute>
+                    </xsl:element>
+                    <xsl:element name="article-id">
+                        <xsl:attribute name="pub-id-type">doi</xsl:attribute>
+                        <xsl:apply-templates select="//jnl:unit-info[1]/jnl:doi/."/>
+                    </xsl:element>
+                    <xsl:element name="article-categories">
+                        <xsl:choose>
+                            <xsl:when test="//jnl:jnl-info/jnl:abrv-jnl-tl = 'BJB'  or //jnl:jnl-info/jnl:abrv-jnl-tl = 'bjb'">
+                                <xsl:element name="article-categories">
+                                    <xsl:element name="subj-group">
+                                        <xsl:attribute name="subj-group-type">
+                                            <xsl:text>heading</xsl:text>
+                                        </xsl:attribute>
+                                        <xsl:element name="subject">
+                                            <xsl:text>Undefined</xsl:text>
+                                        </xsl:element>
+                                    </xsl:element>
+                                </xsl:element>
+                                
+                                <xsl:element name="title-group">
+                                    <xsl:element name="article-title">
+                                        <xsl:attribute name="xml:lang">
+                                            <xsl:value-of select="$Lang"/>
+                                        </xsl:attribute>
+                                        <xsl:apply-templates
+                                            select="jnl:article/jnl:front/jnl:title-grp/jnl:title/node()" />
+                                    </xsl:element>
+
+                                </xsl:element>
+                                
+                                
+                            </xsl:when>
+                        </xsl:choose>
+       
                     </xsl:element>
                 </xsl:element>
             </xsl:element>

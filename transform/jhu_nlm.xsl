@@ -4661,9 +4661,9 @@
 									<xsl:text>casereports</xsl:text>
 								</xsl:element>
 								<!--<xsl:element name="journal-id">
-<xsl:attribute name="journal-id-type">nlm-ta</xsl:attribute>
-<xsl:text>cr</xsl:text>
-</xsl:element>-->
+									<xsl:attribute name="journal-id-type">nlm-ta</xsl:attribute>
+									<xsl:text>cr</xsl:text>
+									</xsl:element>-->
 							</xsl:when>
 							<xsl:when
 								test="//jnl:jnl-info/jnl:abrv-jnl-tl = 'BIN'  or //jnl:jnl-info/jnl:abrv-jnl-tl = 'bin'">
@@ -4681,7 +4681,6 @@
 								</xsl:element>
 
 							</xsl:when>
-
 							<xsl:when
 								test="//jnl:jnl-info/jnl:abrv-jnl-tl = 'CES'  or //jnl:jnl-info/jnl:abrv-jnl-tl = 'ces'">
 								<xsl:element name="journal-id">
@@ -4949,18 +4948,13 @@
 									test="//jnl:jnl-info/jnl:abrv-jnl-tl = 'bin'  or //jnl:jnl-info/jnl:abrv-jnl-tl = 'BIN'">
 									<xsl:apply-templates select="//jnl:unit-info[1]/jnl:doi/."/>
 								</xsl:when>
-
 								<xsl:when
 									test="//jnl:jnl-info/jnl:abrv-jnl-tl = 'GHS'  or //jnl:jnl-info/jnl:abrv-jnl-tl = 'ghs'">
 
 									<xsl:apply-templates select="//jnl:unit-info[1]/jnl:doi/."/>
 
 								</xsl:when>
-
-
 								<xsl:otherwise>
-
-
 									<xsl:choose>
 										<xsl:when
 											test="//jnl:jnl-info/jnl:abrv-jnl-tl = 'ghs'  or //jnl:jnl-info/jnl:abrv-jnl-tl = 'GHS'">
@@ -5710,6 +5704,7 @@
 								</xsl:element>
 							</xsl:when>
 						</xsl:choose>
+						
 						<xsl:element name="title-group">
 							<xsl:element name="article-title">
 								<xsl:choose>

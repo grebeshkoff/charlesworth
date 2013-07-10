@@ -18,7 +18,7 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>BJB</String>
+                                        <String>14</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -33,13 +33,11 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>BJB</String>
-                                        <String>jhu_nlm</String>
+                                        <String>14</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XML</String>
                                         <String>XML</String>
                                     </list>
                                 </field>
@@ -182,7 +180,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>BJB</String>
+                                    <String>14</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
@@ -203,7 +201,7 @@
                                     <String>file:/D:/github/charlesworth/transform/BJB.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
-                                    <String>file:/D:/github/charlesworth/source/source-98.xml</String>
+                                    <String>file:/D:/github/charlesworth/source/source-14.xml</String>
                                 </field>
                                 <field name="defaultScenario">
                                     <Boolean>false</Boolean>
@@ -316,7 +314,7 @@
                                     </map>
                                 </field>
                                 <field name="name">
-                                    <String>jhu_nlm</String>
+                                    <String>14-tmp</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
@@ -337,7 +335,7 @@
                                     <String>file:/D:/github/charlesworth/transform/jhu_nlm.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
-                                    <String>file:/D:/github/charlesworth/source/source-98.xml</String>
+                                    <String>file:/D:/github/charlesworth/source/source-14.xml</String>
                                 </field>
                                 <field name="defaultScenario">
                                     <Boolean>false</Boolean>
