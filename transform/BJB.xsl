@@ -199,36 +199,29 @@
                         <xsl:attribute name="pub-id-type">doi</xsl:attribute>
                         <xsl:apply-templates select="//jnl:unit-info[1]/jnl:doi/."/>
                     </xsl:element>
-                    <xsl:element name="article-categories">
-                        <xsl:choose>
-                            <xsl:when test="//jnl:jnl-info/jnl:abrv-jnl-tl = 'BJB'  or //jnl:jnl-info/jnl:abrv-jnl-tl = 'bjb'">
-                                <xsl:element name="article-categories">
-                                    <xsl:element name="subj-group">
-                                        <xsl:attribute name="subj-group-type">
-                                            <xsl:text>heading</xsl:text>
-                                        </xsl:attribute>
-                                        <xsl:element name="subject">
-                                            <xsl:text>Undefined</xsl:text>
-                                        </xsl:element>
-                                    </xsl:element>
+                        <xsl:element name="article-categories">
+                            <xsl:element name="subj-group">
+                                <xsl:attribute name="subj-group-type">
+                                    <xsl:text>heading</xsl:text>
+                                </xsl:attribute>
+                                <xsl:element name="subject">
+                                    <xsl:text>Undefined</xsl:text>
                                 </xsl:element>
-                                
-                                <xsl:element name="title-group">
-                                    <xsl:element name="article-title">
-                                        <xsl:attribute name="xml:lang">
-                                            <xsl:value-of select="$Lang"/>
-                                        </xsl:attribute>
-                                        <xsl:apply-templates
-                                            select="jnl:article/jnl:front/jnl:title-grp/jnl:title/node()" />
-                                    </xsl:element>
-
-                                </xsl:element>
-                                
-                                
-                            </xsl:when>
-                        </xsl:choose>
-       
-                    </xsl:element>
+                            </xsl:element>
+                        </xsl:element>
+                            
+                        <xsl:element name="title-group">
+                            <xsl:element name="article-title">
+                                <xsl:attribute name="xml:lang">
+                                    <xsl:value-of select="$Lang"/>
+                                </xsl:attribute>
+                                <xsl:apply-templates
+                                    select="jnl:article/jnl:front/jnl:title-grp/jnl:title/node()" />
+                            </xsl:element>
+                        </xsl:element>
+                    <xsl:attribute name="contrib-group">
+                        
+                    </xsl:attribute>
                 </xsl:element>
             </xsl:element>
     </xsl:template>

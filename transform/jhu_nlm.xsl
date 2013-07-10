@@ -4631,6 +4631,15 @@
 			</xsl:otherwise>
 		</xsl:choose>
 	</xsl:template>
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	<xsl:template match="jnl:doc">
 		<xsl:text disable-output-escaping="yes">&lt;</xsl:text>
 		<xsl:text>?xml version="1.0" encoding="UTF-8"?</xsl:text>
@@ -7394,6 +7403,7 @@
 		</xsl:choose>
 		<xsl:text disable-output-escaping="yes">&lt;/article&gt;</xsl:text>
 	</xsl:template>
+	
 	<xsl:template match="jnl:intro[parent::jnl:article-rev]">
 		<xsl:element name="sec">
 			<xsl:attribute name="id">
