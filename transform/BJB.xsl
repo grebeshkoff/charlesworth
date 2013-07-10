@@ -1,140 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl"
-    exclude-result-prefixes="xd"
-    version="1.0">
-    <xsl:output method="xml" encoding="utf-8" indent="yes" />   
-    <xsl:template match="/">
-        <xsl:text disable-output-escaping='yes'>
-&lt;!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "journalpublishing3.dtd">
-        </xsl:text>
-        <article article-type="research-article" dtd-version="3.0" xml:lang="en" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
-            <front>
-                <journal-meta>
-                    <xsl:call-template name="journal-id" />
-                    <xsl:call-template name="journal-title-group" />
-                    <xsl:call-template name="issn" /> 
-                    <xsl:call-template name="publisher" />
-                </journal-meta>
-                <article-meta>
-                    
-                    <xsl:call-template name="article-id"></xsl:call-template>
-                    
-                    <xsl:call-template name="article-categories"></xsl:call-template>
-                    
-                    <xsl:call-template name="title-group"></xsl:call-template>
-                    
-                    <xsl:call-template name="contrib-group"></xsl:call-template>
-                    <!--
-                    <xsl:call-template name="author-notes"></xsl:call-template>
-                    <xsl:call-template name="pub-date"></xsl:call-template>
-                    // some elements
-                    <xsl:call-template name="history"></xsl:call-template>
-                    <xsl:call-template name="permissions"></xsl:call-template>
-                    <xsl:call-template name="abstract"></xsl:call-template>
-                    <xsl:call-template name="kwd-group"></xsl:call-template>
-                    <xsl:call-template name="counts"></xsl:call-template>
-                    -->
-                </article-meta>
-            </front>
-            <body></body>
-            <back></back>
-        </article>                    
-    </xsl:template>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+    xmlns:jnl="urn:hch-jnl-BB4C2D71-E80A-4fe7-B7D8-FDAF121D7AD6"
+    xmlns:tbl="urn:hch:table-470CC8FB-4DFD-4003-9403-2FE04FAB5760"
+    exclude-result-prefixes="jnl tbl xsl">
     
-    <xsl:template name="journal-id">
-        <journal-id  journal-id-type="nlm-ta">
-            <xsl:value-of select="/node()/child::node()/child::node()[last()]"/>
-        </journal-id>
-    </xsl:template>
+    <!-- Vareables -->
+    
+    <xsl:variable name="TypeCodes">
+        <xsl:choose>
+            <xsl:when test="//jnl:jnl-tl[. = 'BMJ Case Reports' or . = 'BMJ Case Report']">
+                <xsl:choose>
+                    <xsl:when test="//jnl:categ[. = 'Correction' or . = 'Corrections']">
+                        <xsl:text>correction</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="//jnl:categ[. = 'correction' or . = 'corrections']">
+                        <xsl:text>correction</xsl:text>
+                    </xsl:when>
+                    <xsl:when test="//jnl:categ[. = 'CORRECTION' or . = 'CORRECTIONS']">
+                        <xsl:text>correction</xsl:text>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:text>case-report</xsl:text>
+                    </xsl:otherwise>
+                </xsl:choose>
+            </xsl:when>
+            <xsl:when test="//jnl:book-rev">
+                <xsl:text>book-review</xsl:text>
+            </xsl:when>
+            <xsl:when test="//jnl:categ/. = 'book-review'">
+                <xsl:text>review-article</xsl:text>
+            </xsl:when>
+            <xsl:when test="//jnl:categ/. = 'book review'">
+                <xsl:text>book-review</xsl:text>
+            </xsl:when>
+            <xsl:when test="//jnl:categ/. = 'book review'">
+                <xsl:text>book-review</xsl:text>
+            </xsl:when>
+            <xsl:when test="//jnl:categ/. = 'book review'">
+                <xsl:text>book-review</xsl:text>
+            </xsl:when>
+            <xsl:when test="//jnl:news">
+                <xsl:text>news</xsl:text>
+            </xsl:when>
+            <xsl:when test="//jnl:doc/jnl:abstract">
+                <xsl:text>abstract</xsl:text>
+            </xsl:when>
+            <xsl:when test="//jnl:categ/node()">
+                <xsl:apply-templates select="//jnl:categ/node()"/>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:text>research-article</xsl:text>
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:variable>
+    <xsl:variable name="TypeCodesmall">
+        <xsl:choose>
+            <xsl:when test="$TypeCodes != ''">
+                <xsl:value-of
+                    select="translate($TypeCodes , 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz')"
+                />
+            </xsl:when>
+        </xsl:choose>
+    </xsl:variable>
+    <xsl:variable name="TypeCode">
+        <xsl:choose>
+            <xsl:when test="$TypeCodesmall  = 'book-review'">
+                <xsl:text>review-article</xsl:text>
+            </xsl:when>
+            <xsl:when test="$TypeCodesmall = 'book review'">
+                <xsl:text>book-review</xsl:text>
+            </xsl:when>
+            <xsl:when test="$TypeCodesmall = 'book reviews'">
+                <xsl:text>book-review</xsl:text>
+            </xsl:when>
+            <xsl:when test="$TypeCodesmall = 'case-report'">
+                <xsl:text>case-report</xsl:text>
+            </xsl:when>
+            <xsl:when test="$TypeCodesmall = 'correction'">
+                <xsl:text>correction</xsl:text>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:text>research-article</xsl:text>
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:variable>
 
-    <xsl:template name="journal-title-group"  >
-        <journal-title-group  journal-id-type="nlm-ta">
-            <journal-title>
-                <xsl:value-of select="/node()/child::node()/child::node()[3]"/>
-            </journal-title>
-            <abbrev-journal-title abbrev-type="publisher">
-                <xsl:call-template name="string-replace-all">
-                    <xsl:with-param name="text" select="/node()/child::node()/child::node()[last()]" />
-                    <xsl:with-param name="replace" select="' '" />
-                    <xsl:with-param name="by" select="'.'" />
-                </xsl:call-template>.
-            </abbrev-journal-title>
-           
-        </journal-title-group>
+    <xsl:variable name="AbbrTitle">
+        <xsl:call-template name="string-replace-all">
+            <xsl:with-param name="text" select="//jnl:jnl-info/jnl:medline-jnl-tl/." />
+            <xsl:with-param name="replace" select="' '" />
+            <xsl:with-param name="by" select="'. '" />
+        </xsl:call-template>
+        <xsl:text>.</xsl:text>
+    </xsl:variable>
+    
+    <xsl:variable name="OneLine">
+        <xsl:text>yes</xsl:text>
+    </xsl:variable>
+    <xsl:template name="newline">
+        <xsl:if test="$OneLine = 'yes'">
+            <xsl:text>
+</xsl:text>
+        </xsl:if>
     </xsl:template>
-    
-    <xsl:template name="issn">
-        <issn type="ppub">
-            <xsl:value-of select="/node()/child::node()/child::node()[8]"/>
-        </issn>
-    </xsl:template>
-    
-    <xsl:template name="publisher">
-        <publisher>
-            <publisher-name>
-                    <![CDATA[Associa&ccedil;&atilde;o Brasileira de Divulga&ccedil;&atilde;o Cient&iacute;fica]]>
-            </publisher-name>
-        </publisher>
-    </xsl:template>
-    
-    <xsl:template name="article-id">
-        <article-id pub-id-type="publisher-id"/>
-        <article-id pub-id-type="doi">
-            <xsl:value-of select="/node()[2]/node()[4]/node()[2]/node()[18]"/>
-        </article-id>
-    </xsl:template>
-    
-    <xsl:template name="article-categories">
-        <article-categories>
-            <subj-group subj-group-type="heading">
-                <subject>Clinical Investigation</subject>
-            </subj-group>
-        </article-categories>
-    </xsl:template>
-    
-    <xsl:template name="title-group">
-        <title-group>
-            <article-title xml:lang="en">
-                <xsl:value-of select="/node()[2]/node()[4]/node()[4]/node()[2]"/>
-            </article-title>
-        </title-group>
-    </xsl:template>
-    
-    <xsl:template name="contrib-group">
-        <!--
-            There must be template matching and I understand this process, 
-            but I can't run it with my tools. 
-            Strike XPath queries work from Xpath debuger, but returns enpty data in XSLT code
-            Its too hard to work with "/node()[2]/node()[4]/node()[4]/node()[2]" axis
-            I can't understand, why.
-            Sorry for mistakes )
-            
-            There is some examples of this match:
-            
-            
-            
-            <xsl:template match="//author-grp/author/surmane">
-                <surname>
-                    <xsl:value-of select=".">
-                </surname>
-            </xsl:template>
-            
-            <xsl:template match="//author-grp/author/initial">
-                <given-name>
-                    <xsl:for-each select="initial">
-                        <xsl:value-of select="initial">
-                        .
-                    </xsl:for-each>
-                </given-name>
-            </xsl:template>
-        <surname>">
-            
-        -->
-    </xsl:template>
-    
-    
-    <!-- Utilites -->
+    <xsl:template name="emptyline">
+        <xsl:if test="$OneLine = 'yes'">
+            <xsl:text>
+                
+ </xsl:text>
+        </xsl:if>
+    </xsl:template>    
     <xsl:template name="string-replace-all">
         <xsl:param name="text" />
         <xsl:param name="replace" />
@@ -155,4 +130,49 @@
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
+
+     
+    
+    <xsl:output method="xml" omit-xml-declaration="yes" version="1.0" indent="yes" encoding="UTF-8"/>
+    <xsl:template match="/">
+        <xsl:apply-templates select="jnl:doc"/>
+    </xsl:template>    
+    <xsl:template match="jnl:doc">
+        <xsl:text disable-output-escaping="yes">&lt;</xsl:text>
+        <xsl:text>?xml version="1.0" encoding="UTF-8"?</xsl:text>
+        <xsl:text disable-output-escaping="yes">&gt;</xsl:text>
+        <xsl:call-template name="newline"/>
+        <xsl:text disable-output-escaping="yes">&lt;</xsl:text>
+        <xsl:text>!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "journalpublishing3.dtd"</xsl:text>
+        <xsl:text disable-output-escaping="yes">&gt;</xsl:text>
+        <xsl:call-template name="emptyline"/>
+        <xsl:text disable-output-escaping="yes">&lt;article article-type="</xsl:text>
+        <xsl:value-of select="$TypeCode"/>
+        <xsl:text disable-output-escaping="yes">" dtd-version="3.0" </xsl:text>
+        <xsl:text disable-output-escaping="yes">xmlns:lang="en" </xsl:text>
+        <xsl:text disable-output-escaping="yes">xmlns:xlink="http://www.w3.org/1999/xlink" </xsl:text>
+        <xsl:text disable-output-escaping="yes">xmlns:mml="http://www.w3.org/1998/Math/MathML"&gt;</xsl:text>
+        <xsl:call-template name="newline"/>
+            <xsl:element name="front">
+                <xsl:element name="journal-meta">
+                    <xsl:element name="journal-id">
+                        <xsl:attribute name="journal-id-type">nlm-ta</xsl:attribute>
+                        <xsl:apply-templates
+                            select="//jnl:jnl-info/jnl:medline-jnl-tl/."/>
+                    </xsl:element>
+                    <xsl:element name="journal-title-group">
+                        <xsl:element name="journal-title">
+                            <xsl:apply-templates
+                                select="//jnl:jnl-info/jnl:jnl-tl/."/>
+                        </xsl:element>
+                        <xsl:element name="abbrev-journal-title">
+                            <xsl:attribute name="abbrev-type">publisher</xsl:attribute>
+                            <xsl:value-of select="$AbbrTitle"/>
+                        </xsl:element>
+                        
+                    </xsl:element>
+                </xsl:element>
+            </xsl:element>
+    </xsl:template>
+    
 </xsl:stylesheet>
