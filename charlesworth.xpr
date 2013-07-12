@@ -14,7 +14,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>transform/BJB.xsl</String>
+                                    <String>transform/jhu_nlm.xsl</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -29,7 +29,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>transform/jhu_nlm.xsl</String>
+                                    <String>transform/BJB.xsl</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
