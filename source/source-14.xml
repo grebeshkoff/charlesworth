@@ -71,7 +71,11 @@
                     <org-div>Programa de P&oacute;s&hyphen;Gradua&ccedil;&atilde;o em Ci&ecirc;ncias
                         da Sa&uacute;de</org-div>
                     <org-name>Universidade do Extremo Sul Catarinense</org-name>
-                    <address><city>Crici&uacute;ma</city><state>SC</state><country>Brasil</country></address>
+                    <address>
+                        <city>Crici&uacute;ma</city>
+                        <state>SC</state>
+                        <country>Brasil</country>
+                    </address>
                 </aff>
                 <aff id="aff2" num="2">
                     <org-div>Laborat&oacute;rio de Patofisiologia Experimental</org-div>

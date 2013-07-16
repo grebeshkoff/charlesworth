@@ -205,7 +205,7 @@
                                     <xsl:text>heading</xsl:text>
                                 </xsl:attribute>
                                 <xsl:element name="subject">
-                                    <xsl:text>Undefined</xsl:text>
+                                    <xsl:text> <!-- Can't find data in source --> </xsl:text>
                                 </xsl:element>
                             </xsl:element>
                         </xsl:element>
@@ -219,11 +219,58 @@
                                     select="jnl:article/jnl:front/jnl:title-grp/jnl:title/node()" />
                             </xsl:element>
                         </xsl:element>
-                    <xsl:attribute name="contrib-group">
-                        
-                    </xsl:attribute>
+                    <xsl:element name="contrib-group">
+                        <xsl:apply-templates select="//jnl:author-grp"></xsl:apply-templates>
+                    </xsl:element>
                 </xsl:element>
             </xsl:element>
     </xsl:template>
+    <xsl:template match="//jnl:author-grp">
+        <xsl:apply-templates select="//jnl:author-grp/jnl:author"></xsl:apply-templates>
+        <xsl:for-each select="jnl:aff">
+            <xsl:variable name="id">
+                
+            </xsl:variable>
+        </xsl:for-each>
+    </xsl:template>
     
+    <xsl:template match="//jnl:author-grp/jnl:author">
+        <xsl:element name="contrib">
+            <xsl:attribute name="contrib-type">
+            <xsl:text>author</xsl:text>
+            </xsl:attribute>
+            <xsl:element name="name">
+                <xsl:apply-templates select="jnl:surname"></xsl:apply-templates>
+                <xsl:element name="given-names">
+                    <xsl:apply-templates select="jnl:initial"></xsl:apply-templates>
+                </xsl:element>
+            </xsl:element>
+            <xsl:element name="xref">
+                <xsl:attribute name="ref-type">
+                    <xsl:text>aff</xsl:text>
+                </xsl:attribute>
+                <xsl:attribute name="rid">
+                    <xsl:value-of select="@affs"/>
+                </xsl:attribute>
+                <xsl:call-template name="string-replace-all">
+                    <xsl:with-param name="text" select="@affs" />
+                    <xsl:with-param name="replace" select="'aff'" />
+                    <xsl:with-param name="by" select="''" />
+                </xsl:call-template>
+            </xsl:element>
+        </xsl:element>
+    </xsl:template>
+    
+    <xsl:template match="jnl:surname">
+        <xsl:element name="surname">
+            <xsl:value-of select="."/>
+        </xsl:element>
+    </xsl:template>
+
+    <xsl:template match="jnl:initial">
+            <xsl:value-of select="."/>
+            <xsl:text>.</xsl:text>
+    </xsl:template>
+    
+
 </xsl:stylesheet>
